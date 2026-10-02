@@ -1,0 +1,3502 @@
+[
+ {
+  "id": 1,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "Is medical radiation technology regulated federally or provincially in Canada?",
+  "back": "It is regulated provincially and territorially, not federally. Each province or territory has its own regulatory body, and licensure in one jurisdiction does not automatically transfer to another."
+ },
+ {
+  "id": 2,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What is CAMRT's role at the national level?",
+  "back": "CAMRT is the national professional association. It develops the national Competency Profile, administers the national certification examination, and sets the national Code of Ethics and Standards of Practice."
+ },
+ {
+  "id": 3,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What is CMRITO and what does it do?",
+  "back": "CMRITO is the College of Medical Radiation and Imaging Technologists of Ontario, the provincial regulatory college for MRTs in Ontario. It issues the legal certificate of registration required to practise, separate from CAMRT's national association role."
+ },
+ {
+  "id": 4,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What is the key difference between a professional association and a regulatory college?",
+  "back": "A professional association advances the profession through education, advocacy, and standards, while a regulatory college exists for public protection, with statutory authority to register, investigate, discipline, and revoke a practitioner's certificate."
+ },
+ {
+  "id": 5,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "Fill in the blank: A technologist moving to a new province ___ automatically retain their registration and must apply for registration in the new jurisdiction.",
+  "back": "does not; reciprocity exists but is not automatic, and an application process is required in the new province."
+ },
+ {
+  "id": 6,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What is scope of practice defined by, for a medical radiation technologist?",
+  "back": "Three overlapping sources: provincial or territorial legislation, the employing institution's policies and protocols, and the individual technologist's own demonstrated competence."
+ },
+ {
+  "id": 7,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "A radiologist asks a technologist to interpret an image and tell the patient the diagnosis. What should the technologist do?",
+  "back": "Decline, since interpretation and diagnosis fall outside an MRT's scope of practice. The technologist may share factual, non-diagnostic information but must direct diagnostic questions to the radiologist or referring physician."
+ },
+ {
+  "id": 8,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What is a medical directive?",
+  "back": "A standing order from a physician or radiologist that permits a technologist to perform a specific delegated act under specific conditions, without requiring a direct individual order each time."
+ },
+ {
+  "id": 9,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "If a technologist performs a delegated act without proper authorization, who is accountable?",
+  "back": "The technologist remains personally accountable under most provincial regulatory frameworks, even if a physician requested the task."
+ },
+ {
+  "id": 10,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What is the correct decision sequence when a technologist is unsure whether a task is within their scope of practice?",
+  "back": "First confirm it is permitted under provincial legislation and college standards, second confirm employer policy and any medical directive authorize it, and third honestly assess personal competence. Proceed only if all three are satisfied; otherwise decline and escalate."
+ },
+ {
+  "id": 11,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What does the beneficence and non-maleficence pillar of the CAMRT Code of Ethics require in imaging practice?",
+  "back": "Acting in the patient's best interest and avoiding harm, which underlies the ALARA framework for radiation dose, infection control, safe patient handling, and catching errors such as wrong-patient situations before they cause harm."
+ },
+ {
+  "id": 12,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What does ALARA stand for?",
+  "back": "As low as reasonably achievable, the framework guiding minimization of radiation dose to patients and staff."
+ },
+ {
+  "id": 13,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What does the accountability pillar of the Code of Ethics require?",
+  "back": "That a technologist accepts responsibility for their own professional decisions and actions, including the outcomes of delegated tasks they choose to perform."
+ },
+ {
+  "id": 14,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What does the justice and equity pillar of the CAMRT Code of Ethics require?",
+  "back": "Fair, unbiased treatment of all patients without discrimination based on race, ethnicity, religion, gender identity, sexual orientation, disability, socioeconomic status, or any other personal characteristic."
+ },
+ {
+  "id": 15,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "Is professional competence a one-time achievement or an ongoing obligation under the CAMRT Code of Ethics?",
+  "back": "An ongoing ethical duty. A technologist must practise only within the bounds of their actual current competence, pursue continuing education, and recognize when a situation exceeds their skill."
+ },
+ {
+  "id": 16,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What constitutes implied consent for a routine diagnostic radiography examination?",
+  "back": "The patient's cooperative presence in the examination room and voluntary positioning for the requested view. This does not authorize adding views, contrast media, or any procedure with materially greater risk."
+ },
+ {
+  "id": 17,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "A competent patient withdraws consent partway through an examination. What must the technologist do?",
+  "back": "Stop the examination promptly, document the withdrawal, and notify the appropriate physician. A patient may withdraw consent at any point, even mid-procedure."
+ },
+ {
+  "id": 18,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "Is capacity to consent a fixed, global trait or is it decision-specific?",
+  "back": "Capacity is decision-specific and time-specific. A patient may lack capacity for one type of decision while retaining it for another, and capacity can fluctuate, for example while recovering from sedation."
+ },
+ {
+  "id": 19,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What happens when a patient lacks capacity to consent and no emergency exists?",
+  "back": "Consent must be obtained from a substitute decision-maker in accordance with provincial legislation, which typically establishes a hierarchy such as spouse, adult child, parent, or sibling."
+ },
+ {
+  "id": 20,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What is PHIPA?",
+  "back": "The Personal Health Information Protection Act, Ontario's statute governing the collection, use, and disclosure of personal health information by health information custodians and providers."
+ },
+ {
+  "id": 21,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What is the \"circle of care\" or \"need to know\" principle?",
+  "back": "Access to a patient's information in systems such as PACS or RIS should be limited to what is genuinely needed for the technologist's current task, never browsed out of curiosity even when technically possible."
+ },
+ {
+  "id": 22,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "A technologist wants to post about an unusual case on social media without naming the patient. Is this acceptable?",
+  "back": "No. Posting any identifiable patient information or details without explicit consent is a serious breach of confidentiality, even without naming the patient, because small details can allow identification."
+ },
+ {
+  "id": 23,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "A technologist discovers a privacy breach caused by a colleague. What is the professional obligation?",
+  "back": "To report it through the facility's incident reporting process, regardless of who caused the breach or whether it was accidental or intentional."
+ },
+ {
+  "id": 24,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What is the correct way to fix an error discovered in a patient record after the fact?",
+  "back": "Make a clearly labelled amendment or addendum. Never delete or overwrite the original entry in a way that conceals what was originally recorded."
+ },
+ {
+  "id": 25,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What qualities should good documentation have?",
+  "back": "Contemporaneous, factual and objective rather than speculative, complete, and legible or correctly entered with a proper amendment trail if electronic."
+ },
+ {
+  "id": 26,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What is a \"just culture\" approach to incident reporting?",
+  "back": "An approach that distinguishes honest mistakes, which should be reported and addressed through systemic improvement, from at-risk behaviour addressed through coaching, and from reckless conduct that knowingly disregards a substantial risk, which warrants discipline."
+ },
+ {
+  "id": 27,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "Does the obligation to report an incident depend on whether the technologist personally caused it?",
+  "back": "No. The obligation to report exists whether the technologist caused the incident, was merely present, or discovered it after the fact. Concealing a known incident is itself a serious breach."
+ },
+ {
+  "id": 28,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What is the SBAR framework used for?",
+  "back": "Situation, background, assessment, and recommendation, a structured tool used for handoff communication to ensure critical patient information is not lost during transitions of care."
+ },
+ {
+  "id": 29,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "A technologist notices a possible pneumothorax on a portable chest radiograph. What should the technologist do?",
+  "back": "Promptly notify the radiologist or appropriate physician following the facility's critical results reporting policy, rather than completing the study and moving on without flagging the finding."
+ },
+ {
+  "id": 30,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "A patient asks the technologist directly what their image shows. What is the professionally correct response?",
+  "back": "Acknowledge the question with empathy while clearly and kindly redirecting the diagnostic question to the appropriate physician, without appearing dismissive or evasive."
+ },
+ {
+  "id": 31,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "What is the difference between cultural awareness and cultural safety?",
+  "back": "Cultural awareness recognizes that cultural differences exist, while cultural safety requires the provider to critically examine their own position, power, and biases, and lets the patient define whether the interaction felt safe and respectful."
+ },
+ {
+  "id": 32,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "An Indigenous patient asks for a family member or Elder to be present during an examination. What is the culturally safe response?",
+  "back": "Respect the request where facility policy and clinical circumstances allow it, as part of building trust and responding to historical and ongoing experiences of discrimination in health care."
+ },
+ {
+  "id": 33,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "A patient's family member offers to translate sensitive medical information. What should the technologist do instead?",
+  "back": "Use professional interpretation services rather than relying on an accompanying family member to translate, since language barriers can exist even for patients who speak English or French with unfamiliar clinical terms."
+ },
+ {
+  "id": 34,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "Who is responsible for tracking and meeting continuing competency requirements?",
+  "back": "The technologist personally, not the employer, although many employers support continuing education through funding or protected time."
+ },
+ {
+  "id": 35,
+  "domain": "professional_communicator_and_collaborator",
+  "chapter": "Professional Practice and Collaboration",
+  "front": "A technologist believes an ordered examination is clinically inappropriate given the patient's presentation. What is the professionally correct action?",
+  "back": "Raise the concern through appropriate channels, such as clarifying with the referring physician, rather than simply proceeding against their own professional judgment or refusing without explanation."
+ },
+ {
+  "id": 36,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What three points in the imaging encounter require a structured patient assessment?",
+  "back": "Pre-procedure, during the procedure, and post-procedure. Each stage has its own focus, from screening for contraindications before the exam to confirming baseline status has returned before discharge."
+ },
+ {
+  "id": 37,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "During the pre-procedure assessment, what should the technologist screen for besides confirming identity?",
+  "back": "Contraindications such as pregnancy or allergy to contrast media, along with the patient's general condition (gait, colour, level of consciousness, and apparent distress)."
+ },
+ {
+  "id": 38,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Why are verbal check-ins between exposures important during a procedure?",
+  "back": "They are a monitoring tool, not just a courtesy. A patient who stops answering appropriately, becomes unusually quiet, or reports new chest pain or shortness of breath needs immediate reassessment before the exam continues."
+ },
+ {
+  "id": 39,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Scenario: A patient has just had an intravenous contrast injection. What discharge instruction should the technologist communicate during the post-procedure assessment?",
+  "back": "Increased fluid intake after intravenous contrast, along with confirming the patient can safely stand and walk or that appropriate assistance has been arranged."
+ },
+ {
+  "id": 40,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Normal resting heart rate range for an average healthy adult: ___ to ___ beats per minute.",
+  "back": "60 to 100 beats per minute."
+ },
+ {
+  "id": 41,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Normal resting respiratory rate range for an average healthy adult.",
+  "back": "12 to 20 breaths per minute."
+ },
+ {
+  "id": 42,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What oxygen saturation on room air is considered normal for an adult at rest?",
+  "back": "95 percent or higher."
+ },
+ {
+  "id": 43,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "How does an infant's normal resting heart rate compare to an adult's?",
+  "back": "It runs faster, normally between 100 and 160 beats per minute, decreasing gradually toward adult ranges through childhood."
+ },
+ {
+  "id": 44,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "At what systolic blood pressure is a patient considered hypotensive and in need of reassessment?",
+  "back": "Below 90 mmHg."
+ },
+ {
+  "id": 45,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Scenario: A resting adult patient has a heart rate of 110 beats per minute with no other symptoms. What vital sign finding is this, and what should the technologist do?",
+  "back": "This is tachycardia (above 100 bpm at rest). The technologist should escalate to the appropriate regulated staff, such as a radiologist, nurse, or physician, rather than diagnose it independently."
+ },
+ {
+  "id": 46,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "An oxygen saturation reading below ___ percent warrants prompt reassessment and possible activation of the emergency response protocol.",
+  "back": "92 percent."
+ },
+ {
+  "id": 47,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Do standard (routine) precautions apply only to patients with a known infection?",
+  "back": "No. Standard precautions apply to every patient interaction regardless of known infection status, since a patient's infectious status is frequently unknown at the point of care."
+ },
+ {
+  "id": 48,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "List the core elements of standard precautions.",
+  "back": "Hand hygiene before and after every patient contact, gloves when contact with blood or body fluids is anticipated, safe sharps handling and disposal, routine cleaning and disinfection of equipment, and respiratory hygiene and cough etiquette."
+ },
+ {
+  "id": 49,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What are the \"4 Moments for Hand Hygiene\" adapted for imaging practice?",
+  "back": "Before touching a patient, before a clean or aseptic procedure, after a body fluid exposure risk, and after touching a patient or their immediate environment."
+ },
+ {
+  "id": 50,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "When should soap and water be used for hand hygiene instead of alcohol-based hand rub?",
+  "back": "When hands are visibly contaminated, or when caring for a patient with Clostridioides difficile, since alcohol-based products do not reliably kill C. difficile spores."
+ },
+ {
+  "id": 51,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Which transmission-based precaution category applies to MRSA, VRE, and C. difficile?",
+  "back": "Contact precautions, requiring gloves and a gown for any contact with the patient or their environment, plus dedicated or disinfected equipment."
+ },
+ {
+  "id": 52,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Approximately how far can large respiratory droplets travel, defining the distance at which droplet precautions apply?",
+  "back": "Roughly one to two metres."
+ },
+ {
+  "id": 53,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Scenario: A patient with confirmed tuberculosis needs a chest X-ray. What PPE and room considerations apply?",
+  "back": "Airborne precautions apply: a fit-tested N95 respirator or equivalent, and ideally transport and imaging in a negative-pressure room or at the end of the day's schedule to minimize exposure of subsequent patients."
+ },
+ {
+  "id": 54,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Name three pathogens that require droplet precautions.",
+  "back": "Influenza, pertussis, and some strains of meningococcal disease."
+ },
+ {
+  "id": 55,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What is the correct order for donning PPE?",
+  "back": "Hand hygiene, gown, mask or respirator, eye protection or face shield, and finally gloves."
+ },
+ {
+  "id": 56,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Which PPE item is removed first when doffing, and which is removed last?",
+  "back": "Gloves are removed first because they carry the heaviest contamination. The mask or respirator is removed last, touched only by its ties or ear loops."
+ },
+ {
+  "id": 57,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What is the full doffing sequence after gloves are removed?",
+  "back": "Hand hygiene, then eye protection, then gown, then the mask or respirator, followed by hand hygiene again immediately after doffing is complete."
+ },
+ {
+  "id": 58,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Why is the front of a used mask considered contaminated?",
+  "back": "It has been in contact with respiratory droplets or aerosols filtered by the mask, so it should only be handled by its ties or ear loops during removal, and touching it with a bare hand requires immediate hand hygiene."
+ },
+ {
+  "id": 59,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What contact surfaces of fixed imaging equipment require disinfection between patients?",
+  "back": "The table, the tube housing handles, and positioning devices, along with any portable equipment or cassettes brought into an isolation room."
+ },
+ {
+  "id": 60,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What is the core principle of proper body mechanics during a manual patient transfer?",
+  "back": "A wide, stable base of support, bending at the knees rather than the waist, keeping the load close to the body, and avoiding twisting the spine while lifting."
+ },
+ {
+  "id": 61,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "When should mechanical lift devices or slide boards be used for a patient transfer?",
+  "back": "Whenever a patient cannot bear their own weight or actively assist, and a second person should always be summoned for any transfer involving a dependent or heavy patient."
+ },
+ {
+  "id": 62,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Why are elderly patients at higher risk of fracture during transfers?",
+  "back": "They often have decreased bone density, making them vulnerable to fracture from even a minor fall or an overly forceful transfer."
+ },
+ {
+  "id": 63,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What is orthostatic hypotension, and how should position changes for an elderly patient account for it?",
+  "back": "A drop in blood pressure when moving from lying to sitting to standing. Position changes should occur slowly and in stages, with a pause at each stage to reassess for dizziness."
+ },
+ {
+  "id": 64,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What must a technologist confirm before positioning a bariatric patient on the imaging table?",
+  "back": "The imaging table's weight capacity, rather than assuming standard equipment is adequate; weight-rated equipment and wider tables or extension devices are typically required."
+ },
+ {
+  "id": 65,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Scenario: A trauma patient with unconfirmed spinal clearance needs to be repositioned. What technique is required, and with how many people?",
+  "back": "Log-roll technique, using a minimum of three to four people to maintain spinal alignment. The technologist must never remove a cervical collar or spinal immobilization device without explicit physician clearance."
+ },
+ {
+  "id": 66,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "How can a parent or caregiver's presence help during a pediatric patient's imaging exam?",
+  "back": "It can reduce anxiety and improve cooperation. With appropriate shielding, and provided they are not pregnant, there is no restriction against their radiation exposure beyond standard precautions."
+ },
+ {
+  "id": 67,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What positioning practice protects skin integrity during a long CT protocol or fluoroscopic procedure?",
+  "back": "Padding at bony prominences, minimizing total table time where possible, and checking skin condition on patients who are unconscious, sedated, or otherwise unable to report discomfort."
+ },
+ {
+  "id": 68,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What is the purpose of an immobilization device in imaging?",
+  "back": "To reduce voluntary and involuntary motion to preserve image quality while protecting the patient from injury caused by movement during exposure."
+ },
+ {
+  "id": 69,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Name four common types of immobilization devices used in imaging.",
+  "back": "Compression bands, sponge and foam positioning aids, sandbags, and Velcro straps (specialized pediatric immobilizers are also used)."
+ },
+ {
+  "id": 70,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What risk does an improperly applied immobilization device create?",
+  "back": "It can compromise circulation or respiration, so any device must be monitored throughout the examination and applied only as tightly as needed to achieve the clinical goal."
+ },
+ {
+  "id": 71,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What is required before chemical or physical restraint may be used purely for behavioural control rather than to protect the patient during a procedure?",
+  "back": "Generally a physician order and informed consent or substitute decision-maker consent, since this use raises significant legal and ethical concerns."
+ },
+ {
+  "id": 72,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Why are diagnostic imaging departments a common site for patient falls?",
+  "back": "Because of frequent transitions between wheelchairs, stretchers, and imaging tables, often on unfamiliar equipment and sometimes with the patient's clothing altered or vision reduced by removed glasses."
+ },
+ {
+  "id": 73,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "List four fall prevention strategies used in a diagnostic imaging department.",
+  "back": "Standardized fall-risk screening on arrival, never leaving an at-risk patient unattended, keeping side rails raised and stretchers or beds locked, and lowering the imaging table to its minimum height during transfers."
+ },
+ {
+  "id": 74,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Scenario: A technologist must briefly step into the control booth, leaving an ambulatory but unsteady patient on the table. What should be provided before leaving?",
+  "back": "A call bell and clear verbal instructions, such as \"do not get up without help.\""
+ },
+ {
+  "id": 75,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What is syncope, and what commonly triggers it in the imaging setting?",
+  "back": "A transient loss of consciousness caused by a temporary reduction in cerebral blood flow. It is often triggered by fear, pain, prolonged standing, or a vasovagal response to venipuncture."
+ },
+ {
+  "id": 76,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Name three presyncope warning signs.",
+  "back": "Pallor, diaphoresis (sweating), and lightheadedness, along with reports of \"feeling faint.\""
+ },
+ {
+  "id": 77,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Scenario: A standing patient reports feeling lightheaded and sweaty. What should the technologist do immediately?",
+  "back": "Assist the patient to a safe seated or supine position, elevate the legs if supine, loosen restrictive clothing, and monitor vital signs until the episode resolves. The patient should never be left standing."
+ },
+ {
+  "id": 78,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What is the correct technologist response to a patient having a seizure in the imaging department?",
+  "back": "Protect the patient from injury rather than restrain the movements: ease them to the floor or table, clear the area of hard or sharp objects, cushion the head, and once movements permit, turn them onto their side to protect the airway."
+ },
+ {
+  "id": 79,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Should an object ever be placed in a seizing patient's mouth?",
+  "back": "No, never. This is a common misconception; nothing should be placed in the mouth during a seizure."
+ },
+ {
+  "id": 80,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "At what point does a seizure become status epilepticus, requiring emergency assistance?",
+  "back": "When it lasts longer than five minutes, or when a second seizure begins before the patient recovers consciousness from the first."
+ },
+ {
+  "id": 81,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What are the early signs of anaphylaxis to contrast media?",
+  "back": "Urticaria (hives), pruritus, flushing, and a feeling of impending doom, which can progress rapidly to angioedema, bronchospasm, hypotension, and cardiovascular collapse."
+ },
+ {
+  "id": 82,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Contrast reactions are classically graded into three severity tiers. Name them.",
+  "back": "Mild, moderate, and severe."
+ },
+ {
+  "id": 83,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Scenario: A patient develops limited urticaria and a sensation of warmth after contrast injection, with no other symptoms. What grade of reaction is this, and what response is typically needed?",
+  "back": "A mild reaction. It typically requires only observation, reassurance, and monitoring, since these reactions are usually self-limited."
+ },
+ {
+  "id": 84,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What findings characterize a moderate contrast reaction?",
+  "back": "More extensive urticaria, facial or laryngeal edema without severe respiratory compromise, mild bronchospasm, or a transient drop in blood pressure with symptoms."
+ },
+ {
+  "id": 85,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What response is required for a severe contrast reaction?",
+  "back": "Immediate activation of the emergency response system, administration of epinephrine per protocol or physician order, high-flow oxygen, and initiation of basic life support if the patient loses pulse or respiration."
+ },
+ {
+  "id": 86,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What must every diagnostic imaging department administering intravenous contrast have in place?",
+  "back": "An emergency response protocol, a stocked emergency cart with epinephrine, and staff trained to recognize and respond to reactions immediately."
+ },
+ {
+  "id": 87,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Canadian adult basic life support follows the ___-___-___ sequence.",
+  "back": "C-A-B: Compressions first, then Airway, then Breathing."
+ },
+ {
+  "id": 88,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What is the recommended chest compression rate and depth for an adult during CPR?",
+  "back": "100 to 120 compressions per minute, at a depth of approximately 5 centimetres, allowing full chest recoil between compressions."
+ },
+ {
+  "id": 89,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What is the standard compression-to-breath ratio for a lone rescuer performing adult CPR?",
+  "back": "30 compressions to 2 rescue breaths."
+ },
+ {
+  "id": 90,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Scenario: An AED has just delivered a shock to a patient in cardiac arrest. What should happen next?",
+  "back": "Compressions should resume immediately after the shock is delivered, or after the device advises no shock is indicated."
+ },
+ {
+  "id": 91,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Why are technologists generally required to maintain current BLS certification?",
+  "back": "Because the imaging environment places them at genuine risk of encountering a cardiac or respiratory arrest, given their direct patient contact and use of contrast media."
+ },
+ {
+  "id": 92,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What is the appropriate intervention for a conscious adult who is choking and cannot cough, speak, or breathe?",
+  "back": "Abdominal thrusts (the Heimlich manoeuvre), until the obstruction clears or the patient becomes unresponsive, at which point CPR should begin."
+ },
+ {
+  "id": 93,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What is the minimum standard for verifying patient identity before any examination begins?",
+  "back": "At least two independent identifiers, such as full name and date of birth, or full name and a unique medical record or health card number, verified against the requisition."
+ },
+ {
+  "id": 94,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Why is a verbal confirmation like \"Are you Mr. Smith?\" insufficient as a sole patient identifier?",
+  "back": "A confused, hard-of-hearing, or agreeable patient may answer affirmatively to any name offered, so it cannot be relied on alone."
+ },
+ {
+  "id": 95,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "How should identity be confirmed for a patient who cannot verbally respond, such as an unconscious trauma patient?",
+  "back": "By relying on the identification wristband, accompanying staff or family member confirmation, and cross-referencing with the requisition and any accompanying chart."
+ },
+ {
+  "id": 96,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "At what additional point, besides the start of the exam, should the two-identifier standard be repeated?",
+  "back": "Before contrast administration and before any invasive component of a procedure."
+ },
+ {
+  "id": 97,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Who must be screened for possible pregnancy before an examination involving ionizing radiation to the pelvis or abdomen?",
+  "back": "Every person of childbearing potential, unless the examination is emergent and cannot be safely delayed."
+ },
+ {
+  "id": 98,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What is the \"10-day rule\" in radiation protection?",
+  "back": "A historical guideline recommending that elective abdominal and pelvic radiographic exams on a person of childbearing potential be scheduled within the first 10 days following the onset of menstruation, the period considered least likely to coincide with an early, unrecognized pregnancy."
+ },
+ {
+  "id": 99,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Has the strict 10-day rule been fully replaced in contemporary practice?",
+  "back": "It has largely been relaxed in favour of a pregnancy questionnaire at the time of the visit, since a missed period is a stronger practical indicator than a rigid calendar window, though technologists must still know their own department's current policy."
+ },
+ {
+  "id": 100,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Scenario: A patient's pregnancy cannot be ruled out and the requested exam is not emergent. What should happen next?",
+  "back": "The referring physician and, where appropriate, a radiologist should be consulted to weigh the clinical necessity of the exam against fetal radiation dose, and non-ionizing alternatives such as ultrasound or MRI should be considered."
+ },
+ {
+  "id": 101,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Why are isolation patients ideally scheduled at the end of the day's imaging list?",
+  "back": "To reduce the number of subsequent patients who might be exposed to a contaminated room; alternatively, a dedicated portable unit may be brought to the patient's room instead."
+ },
+ {
+  "id": 102,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What must happen to porous equipment, such as positioning sponges, that entered an isolation environment and cannot be adequately disinfected?",
+  "back": "It must be discarded per department policy before reuse on another patient."
+ },
+ {
+  "id": 103,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Where should a urinary catheter drainage bag generally be kept relative to the bladder, and why?",
+  "back": "Below bladder level, to prevent backflow of urine into the bladder."
+ },
+ {
+  "id": 104,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What is the risk of clamping a chest tube without a specific order?",
+  "back": "Tension pneumothorax; a chest tube drainage unit must be kept upright and below chest level and should never be clamped without explicit orders."
+ },
+ {
+  "id": 105,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What should a technologist do before transferring or repositioning a patient with multiple tubes and lines in place?",
+  "back": "Identify every tube and line, note where it enters the body and where it connects, and ensure adequate slack so movement does not create tension on the site."
+ },
+ {
+  "id": 106,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Scenario: A technologist notices new bleeding at a wound site during a patient transfer. What is the correct action?",
+  "back": "Report it immediately to nursing or the treating team rather than managing it independently."
+ },
+ {
+  "id": 107,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "Name three strategies to reduce claustrophobic anxiety during an MRI examination.",
+  "back": "Explaining the procedure and its duration clearly in advance, offering a blindfold, music, or a mirror device, and providing a call bell or squeeze bulb the patient can use to stop the exam if needed."
+ },
+ {
+  "id": 108,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "When communicating with a pediatric patient, what type of language should be avoided?",
+  "back": "Words that could be misinterpreted as frightening, such as describing a procedure as \"shooting\" an X-ray. Simple, honest, age-appropriate language should be used instead."
+ },
+ {
+  "id": 109,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What communication adjustments help a geriatric patient with possible hearing loss or cognitive change?",
+  "back": "Speaking clearly and at a moderate pace, facing the patient directly to support lip-reading, allowing extra time to process instructions and reposition, and including an accompanying caregiver in explanations when needed."
+ },
+ {
+  "id": 110,
+  "domain": "care_provider",
+  "chapter": "Patient Care and Safety",
+  "front": "What communication practice, used across all age groups, builds the trust that produces a safer and more diagnostically successful examination?",
+  "back": "Using the patient's name, explaining what will happen and why before every step, and checking for understanding rather than simply issuing instructions."
+ },
+ {
+  "id": 111,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What are deterministic effects of radiation?",
+  "back": "Tissue reactions that occur only above a threshold dose, with severity increasing as dose increases above that threshold. Skin erythema, epilation, and cataract formation are classic examples."
+ },
+ {
+  "id": 112,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What are stochastic effects of radiation?",
+  "back": "Effects with no dose threshold, where the probability of occurrence rises with dose but the severity of the effect does not. Cancer induction and heritable genetic effects are the two of greatest concern in diagnostic radiography."
+ },
+ {
+  "id": 113,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Fill in the blank: Below the threshold dose, a ____ effect will not occur at all.",
+  "back": "Deterministic."
+ },
+ {
+  "id": 114,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What model underlies radiation protection philosophy given that stochastic effects have no threshold?",
+  "back": "The linear no-threshold model, which assumes any dose carries some small risk, however small that risk may be at diagnostic dose levels."
+ },
+ {
+  "id": 115,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What does ALARA stand for and what does it mean in practice?",
+  "back": "As Low As Reasonably Achievable. It means technologists always work to minimize dose to patients, staff, and the public, taking economic and social factors into account, rather than aiming for a fixed numeric dose target."
+ },
+ {
+  "id": 116,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What three practical tools support the ALARA principle?",
+  "back": "Minimizing time near a radiation source, maximizing distance from the source, and using shielding wherever practical."
+ },
+ {
+  "id": 117,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Scenario: A technologist performs a long fluoroscopically guided procedure with extended beam-on time, and the patient later develops a skin injury at the entrance site. Which category of radiation effect does this represent?",
+  "back": "A deterministic effect. Prolonged beam-on time in fluoroscopy can exceed the threshold dose for skin injury, and the injury severity would increase with further dose above that threshold."
+ },
+ {
+  "id": 118,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What is the gray (Gy) the SI unit of?",
+  "back": "Absorbed dose, the amount of energy deposited per unit mass of tissue, specifically one joule of energy absorbed per kilogram of matter."
+ },
+ {
+  "id": 119,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What is the sievert (Sv) the SI unit of?",
+  "back": "Equivalent dose and effective dose, quantities that incorporate weighting factors to reflect the biological risk of radiation exposure."
+ },
+ {
+  "id": 120,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Why are equivalent dose in sieverts and absorbed dose in grays numerically similar for diagnostic x-ray work?",
+  "back": "Because the radiation weighting factor for x-ray and gamma radiation is one, even though the two quantities remain conceptually distinct."
+ },
+ {
+  "id": 121,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What is the becquerel (Bq) the SI unit of, and what does it NOT measure?",
+  "back": "It is the SI unit of radioactivity, one radioactive disintegration per second. It measures the rate of decay of a source, not the dose received by a person."
+ },
+ {
+  "id": 122,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Fill in the blank: In diagnostic radiography, doses are commonly expressed in ____ and occupational limits in ____.",
+  "back": "Milligray (mGy); millisievert (mSv)."
+ },
+ {
+  "id": 123,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Which SI units does the CAMRT exam expect familiarity with, as opposed to legacy units like the roentgen, rad, and rem?",
+  "back": "The gray, sievert, and becquerel, since Canadian practice today is based on SI units."
+ },
+ {
+  "id": 124,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What is the commonly cited occupational effective dose limit in Canada for radiation workers?",
+  "back": "50 millisievert in any single year, with a cumulative limit of 100 millisievert over any five-year period."
+ },
+ {
+  "id": 125,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Why does the occupational dose framework average exposure over a five-year period rather than only capping a single year?",
+  "back": "It recognizes that occupational exposure should be managed over time, preventing any single year from reaching an excessive dose while allowing normal year-to-year variation."
+ },
+ {
+  "id": 126,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Are occupational dose limits meant to be treated as a target for technologists to approach?",
+  "back": "No. They are an upper regulatory boundary, not a target. ALARA drives daily practice to keep actual doses as far below these limits as reasonably achievable."
+ },
+ {
+  "id": 127,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "How do dose limits for the lens of the eye and for members of the general public compare to the whole-body occupational limit?",
+  "back": "Both are lower. The lens of the eye has a separate, lower limit due to its sensitivity to cataract formation, and members of the public are held to a substantially lower limit than occupationally exposed workers."
+ },
+ {
+  "id": 128,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What are the two dosimeter technologies that dominate Canadian practice?",
+  "back": "Thermoluminescent dosimeters (TLDs) and optically stimulated luminescence (OSL) dosimeters."
+ },
+ {
+  "id": 129,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "How does a TLD work?",
+  "back": "A crystalline material, commonly lithium fluoride, absorbs radiation energy and stores it as trapped electrons. When later heated in a laboratory reader, the trapped electrons release energy as light proportional to the absorbed dose."
+ },
+ {
+  "id": 130,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "How does an OSL dosimeter differ from a TLD in its readout mechanism?",
+  "back": "An OSL dosimeter, often made of aluminum oxide, is read using a laser or LED light source rather than heat, stimulating release of the stored energy as measurable light."
+ },
+ {
+  "id": 131,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Why have OSL dosimeters become widely adopted?",
+  "back": "They allow reanalysis of the same dosimeter, offer good sensitivity at low doses, and provide reliable long-term stability of the recorded dose."
+ },
+ {
+  "id": 132,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Where should a personal dosimeter be worn, and why?",
+  "back": "At collar level, outside any lead apron, facing the primary beam or the most likely direction of scatter, to estimate dose to the unshielded head, neck, and thyroid."
+ },
+ {
+  "id": 133,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Why might a facility issue a second dosimeter under the apron at waist level?",
+  "back": "For staff regularly involved in fluoroscopy, allowing calculation of a more accurate effective dose using an algorithm that combines both dosimeter readings."
+ },
+ {
+  "id": 134,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Scenario: A technologist leaves her dosimeter badge in a hot car over the weekend instead of wearing it. What is the consequence?",
+  "back": "The dosimeter may produce a false dose record that misrepresents her actual exposure, undermining the purpose of the monitoring program. Dosimeters must never be left where they could receive spurious exposure."
+ },
+ {
+  "id": 135,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What should happen if a dosimeter reading appears unexpectedly high?",
+  "back": "The facility's radiation safety officer investigates promptly, since the reading may reflect a genuine overexposure requiring corrective action or an artifact such as the dosimeter being left near a source unworn."
+ },
+ {
+  "id": 136,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What are the three cardinal principles of radiation protection?",
+  "back": "Time, distance, and shielding."
+ },
+ {
+  "id": 137,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "How does the inverse square law relate distance from a source to radiation intensity?",
+  "back": "The intensity of radiation from a point source is inversely proportional to the square of the distance from that source, so doubling distance reduces intensity to one quarter."
+ },
+ {
+  "id": 138,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Fill in the blank: Tripling the distance from a radiation source reduces intensity to ____ of its original value.",
+  "back": "One ninth."
+ },
+ {
+  "id": 139,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Name two ways of reducing time near a radiation source during fluoroscopy.",
+  "back": "Using pulsed fluoroscopy modes rather than continuous fluoroscopy, and using last-image-hold features instead of re-exposing to review an image."
+ },
+ {
+  "id": 140,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Why is lead the primary material used for shielding in diagnostic radiography?",
+  "back": "Because of its high atomic number and density, which make it highly effective at attenuating x-ray photons across the diagnostic energy range."
+ },
+ {
+  "id": 141,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "How is lead apron protection typically rated?",
+  "back": "By lead equivalence, commonly expressed in millimetres of lead equivalent, with 0.25 mm, 0.35 mm, and 0.5 mm being common ratings."
+ },
+ {
+  "id": 142,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What is the tradeoff facilities weigh when selecting lead apron thickness?",
+  "back": "A higher lead equivalence provides greater attenuation but adds weight and can contribute to musculoskeletal strain, so apron thickness is chosen to balance protection against practical wearability."
+ },
+ {
+  "id": 143,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Who should wear a wraparound apron, and why?",
+  "back": "Staff who may have their back toward the radiation source during a procedure, such as when positioning a patient during fluoroscopy, since a wraparound apron gives continuous coverage front and back."
+ },
+ {
+  "id": 144,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Why is a thyroid collar considered standard protective equipment for anyone remaining in the room during fluoroscopy?",
+  "back": "The thyroid is a radiosensitive organ that sits outside the coverage area of a standard apron, so it needs its own separate shielding from scattered radiation."
+ },
+ {
+  "id": 145,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What is a key limitation of lead-lined gloves that technologists must remember?",
+  "back": "They offer only limited attenuation compared to the intensity of the primary beam and must never be relied on to justify placing the hands directly in the primary, unattenuated beam."
+ },
+ {
+  "id": 146,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "How has current radiation protection practice regarding patient gonadal shielding changed from traditional default use?",
+  "back": "Practice has moved toward a more selective, evidence-based approach, recognizing that modern automatic exposure control, collimation, and technique selection already reduce dose substantially, and that improperly placed shielding can obscure anatomy or increase dose."
+ },
+ {
+  "id": 147,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What is the primary purpose of collimation in patient dose reduction?",
+  "back": "Restricting the x-ray beam to the smallest field size necessary reduces the volume of tissue irradiated and improves image quality by reducing scattered radiation reaching the image receptor."
+ },
+ {
+  "id": 148,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "How can exposure factor selection reduce patient dose while maintaining image quality?",
+  "back": "Higher kVp with correspondingly lower mAs can often maintain diagnostic quality while reducing dose, since kVp has a stronger relationship with radiation quantity than mAs alone."
+ },
+ {
+  "id": 149,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What is the tradeoff involved in using a grid during radiography?",
+  "back": "Grids absorb scattered radiation and improve contrast for thicker body parts, but they require increased mAs to compensate, which increases patient dose, so they should not be used reflexively on thin or pediatric patients."
+ },
+ {
+  "id": 150,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Why is avoiding repeat exposures one of the most effective dose reduction strategies?",
+  "back": "A repeated exposure delivers dose to the patient with no corresponding diagnostic benefit from the original, discarded image, so preventing repeats through good technique eliminates entirely unnecessary dose."
+ },
+ {
+  "id": 151,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What is the purpose of an automatic exposure control (AEC) system?",
+  "back": "It terminates exposure once sufficient radiation has reached the image receptor for the selected technique, helping avoid overexposure from an excessively long manual exposure time."
+ },
+ {
+  "id": 152,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What does declaring a pregnancy trigger for an occupationally exposed technologist in Canadian practice?",
+  "back": "A separate, more conservative dose limit intended to protect the developing embryo or fetus for the remainder of the declared pregnancy, along with additional monitoring and possible duty adjustments."
+ },
+ {
+  "id": 153,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Is declaring a pregnancy mandatory for a technologist in Canadian practice?",
+  "back": "No, it is voluntary. However, declaring it allows the facility to apply additional monitoring and, where appropriate, adjust work duties to help protect fetal dose."
+ },
+ {
+  "id": 154,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Scenario: A technologist declares her pregnancy. What change is commonly made to monitor her exposure?",
+  "back": "A second dosimeter is commonly worn at waist level under the apron to more directly estimate fetal dose once the pregnancy is declared."
+ },
+ {
+  "id": 155,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Why is an urgently needed diagnostic examination rarely contraindicated outright by patient pregnancy alone?",
+  "back": "Because the radiation risk from a properly performed diagnostic examination is generally small relative to the risk of a missed or delayed diagnosis, so clinical necessity is weighed against fetal dose rather than automatically refusing the examination."
+ },
+ {
+  "id": 156,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "How can technique be optimized when imaging a pregnant patient whose examination is clinically justified and cannot be deferred?",
+  "back": "Through tight collimation, appropriate exposure factor selection, and abdominal shielding where practical and appropriate to the examination, while still obtaining the diagnostic information needed."
+ },
+ {
+  "id": 157,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What three factors are considered when calculating structural shielding for an imaging room?",
+  "back": "Workload (anticipated volume and type of examinations), use factor (fraction of time the beam points toward a particular wall), and occupancy factor (how frequently and for how long people occupy the adjacent space)."
+ },
+ {
+  "id": 158,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What is the difference between a primary barrier and a secondary barrier?",
+  "back": "A primary barrier must attenuate the direct, unattenuated primary beam and requires substantially more lead equivalence, while a secondary barrier need only attenuate weaker leakage and scattered radiation from walls the beam never directly strikes."
+ },
+ {
+  "id": 159,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What is the purpose of a radiation protection survey performed after installing new or modified radiographic equipment?",
+  "back": "A qualified expert uses calibrated survey instruments to measure radiation levels outside the shielded barriers, confirming that the shielding design performs as intended and that levels in occupied adjacent areas remain within acceptable limits."
+ },
+ {
+  "id": 160,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What is the difference between quality control (QC) and quality assurance (QA) for x-ray equipment?",
+  "back": "Quality control refers to the specific technical tests performed on equipment, while quality assurance describes the broader administrative and organizational program that ensures those tests are performed, documented, and acted upon."
+ },
+ {
+  "id": 161,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What does a kVp accuracy and reproducibility test check?",
+  "back": "That the actual kilovoltage produced by the tube matches the selected value and remains consistent across repeated exposures at the same setting."
+ },
+ {
+  "id": 162,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What does a linearity test confirm for x-ray equipment?",
+  "back": "That changing mAs through different combinations of mA and time produces a proportional change in output."
+ },
+ {
+  "id": 163,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What does half-value layer measurement assess, and why does it matter?",
+  "back": "It assesses the effective filtration of the x-ray beam, and it relates directly to patient dose and beam quality."
+ },
+ {
+  "id": 164,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What does collimator accuracy testing confirm?",
+  "back": "That the light field used for positioning matches the actual radiation field within an acceptable tolerance."
+ },
+ {
+  "id": 165,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What role do technologists play in the QC/QA program, even though they do not perform formal comprehensive equipment evaluations?",
+  "back": "Daily visual and functional checks of equipment, prompt reporting of any malfunction or unexpected image quality change, and cooperation with scheduled formal testing."
+ },
+ {
+  "id": 166,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Name three sources of ergonomic risk for technologists in medical radiation technology.",
+  "back": "Patient transfers, positioning of heavy or immobile patients, and prolonged standing or repetitive movements such as reaching or lifting portable equipment."
+ },
+ {
+  "id": 167,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What proper body mechanics reduce the risk of musculoskeletal injury when lifting or transferring a patient?",
+  "back": "Bending at the knees rather than the waist, keeping loads close to the body, using mechanical lift assist devices and transfer aids, and seeking additional staff assistance for difficult transfers."
+ },
+ {
+  "id": 168,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What does WHMIS stand for, and what does it govern?",
+  "back": "The Workplace Hazardous Materials Information System, which governs the safe handling, storage, and labelling of hazardous chemical products in Canadian workplaces."
+ },
+ {
+  "id": 169,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "What must be readily accessible for every hazardous product used in an imaging department under WHMIS?",
+  "back": "A safety data sheet (SDS), along with standardized labels bearing pictograms that indicate the nature of the hazard."
+ },
+ {
+  "id": 170,
+  "domain": "safe_work_principles_and_radiation_safety",
+  "chapter": "Radiation Protection and Safe Work Practices",
+  "front": "Why must portable radiographic equipment, lead aprons, and positioning devices be cleaned according to facility protocol between patients?",
+  "back": "Because these items move between patients and can serve as a route of cross-contamination if not properly disinfected, so infection control practices intersect closely with radiation safety in the imaging department."
+ },
+ {
+  "id": 171,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Why is the inside of an X-ray tube kept under vacuum?",
+  "back": "Any residual gas molecules would collide with accelerating electrons, scatter them, and prevent the tube from producing a controlled beam."
+ },
+ {
+  "id": 172,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "What material is the X-ray tube filament made of, and why?",
+  "back": "Thoriated tungsten, because tungsten has a high melting point (about 3,422 degrees Celsius) and thoriated tungsten emits electrons more efficiently at a given temperature than pure tungsten."
+ },
+ {
+  "id": 173,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Thermionic emission",
+  "back": "The process by which a heated filament boils off electrons into the space around it, forming a cloud of electrons called the space charge."
+ },
+ {
+  "id": 174,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "back": "It keeps the cloud of thermionically emitted electrons condensed into a tight beam as they cross the tube toward the anode.",
+  "front": "Scenario: An X-ray tube's cathode has a small filament, a large filament, and a negatively charged, shaped structure surrounding them. What is the function of that structure?"
+ },
+ {
+  "id": 175,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "The anode of a general radiography tube serves two purposes. What are they?",
+  "back": "It provides the target material that electrons strike to produce X-rays, and it conducts heat away from that target."
+ },
+ {
+  "id": 176,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Fill in the blank: A rotating anode disc is made of ______ and is typically spun at ______ during an exposure.",
+  "back": "Tungsten-rhenium; 3,000 to 10,000 revolutions per minute."
+ },
+ {
+  "id": 177,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Why does anode rotation allow higher mA and longer exposure times without melting the target?",
+  "back": "Rotation spreads the heat load of each exposure over a much larger physical area of the anode disc than a stationary target could tolerate."
+ },
+ {
+  "id": 178,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Distinguish the actual focal spot from the effective focal spot.",
+  "back": "The actual focal spot is the area of the anode actually struck by the electron beam; the effective focal spot is how that area appears when projected down toward the image receptor."
+ },
+ {
+  "id": 179,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Line focus principle",
+  "back": "The geometric relationship whereby angling the anode makes the effective focal spot appear smaller than the actual focal spot, improving spatial resolution."
+ },
+ {
+  "id": 180,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Scenario: A technologist compares a tube with a steep anode angle to one with a shallow anode angle. What trade-off does each produce?",
+  "back": "A steeper angle gives a smaller effective focal spot and finer resolution but smaller field coverage; a shallower angle gives larger field coverage but is more prone to the anode heel effect."
+ },
+ {
+  "id": 181,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "What causes the anode heel effect?",
+  "back": "The angled anode absorbs more of the photons directed toward the anode side of the tube than those directed toward the cathode side, so beam intensity is greater on the cathode side and lesser on the anode side."
+ },
+ {
+  "id": 182,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Scenario: A technologist is imaging a femur, which varies markedly in thickness along the long axis. How should the part be positioned relative to the tube to use the anode heel effect for more uniform density?",
+  "back": "The thicker part should be positioned toward the cathode end of the tube, where beam intensity is higher, and the thinner part toward the anode end, where intensity is lower."
+ },
+ {
+  "id": 183,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "List three factors that make the anode heel effect more pronounced.",
+  "back": "A shorter source to image distance, a larger field size, and a smaller anode angle."
+ },
+ {
+  "id": 184,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "How are heat units calculated for single-phase X-ray equipment?",
+  "back": "Heat units equal kVp multiplied by mA multiplied by seconds."
+ },
+ {
+  "id": 185,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Why do three-phase and high-frequency generators use a heat unit correction factor > 1?",
+  "back": "These waveforms deliver more usable radiation output per unit of anode heating than single-phase equipment, so a correction factor (1.35 for three-phase six-pulse, 1.41 for three-phase twelve-pulse and high-frequency) accounts for the difference."
+ },
+ {
+  "id": 186,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "What are the three major sections of the X-ray circuit?",
+  "back": "The low-voltage (primary) side, the filament circuit, and the high-voltage (secondary) side."
+ },
+ {
+  "id": 187,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "What is the role of the autotransformer in the X-ray circuit?",
+  "back": "It allows the operator's console kVp selection to adjust the voltage sent forward to the step-up transformer."
+ },
+ {
+  "id": 188,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Fill in the blank: The step-up transformer increases voltage by a fixed ratio, commonly ______, to produce diagnostic-range kilovoltage.",
+  "back": "500:1"
+ },
+ {
+  "id": 189,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Why must the high voltage from the step-up transformer be rectified?",
+  "back": "Standard electrical supply is alternating current, so it must be converted into a waveform that flows in one direction only, cathode to anode, for the tube to function properly."
+ },
+ {
+  "id": 190,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "How does full-wave rectification differ from older half-wave rectification?",
+  "back": "Full-wave rectification uses four diodes so both the positive and negative halves of the AC cycle produce useful X-ray output, rather than wasting half the cycle as half-wave rectified units did."
+ },
+ {
+  "id": 191,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Ripple",
+  "back": "The degree to which a generator's voltage waveform drops from peak toward zero during a cycle; lower ripple means a waveform closer to constant potential."
+ },
+ {
+  "id": 192,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Scenario: A department upgrades from single-phase to high-frequency generator equipment. What change in image production should the technologist expect at the same nominal exposure factors?",
+  "back": "Higher average photon energy and greater X-ray output per mAs, with much shorter exposure times possible, because the nearly constant potential waveform keeps the tube operating near peak kVp throughout the exposure."
+ },
+ {
+  "id": 193,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Fill in the blank: Twelve-pulse three-phase generators have ripple under ______ percent, while high-frequency generators have ripple often below ______ percent.",
+  "back": "4 percent; 1 percent."
+ },
+ {
+  "id": 194,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "What is the primary controller of the quantity of X-rays produced, and how does it affect receptor exposure?",
+  "back": "Milliampere-seconds (mAs); doubling mAs doubles the number of photons and directly doubles receptor exposure, all other factors held constant."
+ },
+ {
+  "id": 195,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Scenario: A technologist uses 200 mA at 0.05 seconds for one exposure and 100 mA at 0.1 seconds for another. What is true about these two exposures?",
+  "back": "Both yield 10 mAs, so they produce the same overall exposure, though the shorter-time combination helps reduce motion artifact."
+ },
+ {
+  "id": 196,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "The 15 percent rule",
+  "back": "Increasing kVp by 15 percent produces approximately the same increase in receptor exposure as doubling the mAs, and decreasing kVp by 15 percent halves receptor exposure similarly to halving the mAs."
+ },
+ {
+  "id": 197,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Why does raising kVp while proportionally lowering mAs (per the 15 percent rule) reduce patient dose but also lower subject contrast?",
+  "back": "It delivers less overall dose for an equivalent receptor exposure, but higher-energy beams produce more Compton scatter relative to photoelectric absorption, giving less differential attenuation between tissues."
+ },
+ {
+  "id": 198,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Inverse square law",
+  "back": "The intensity of radiation is inversely proportional to the square of the distance from the source; doubling source to image distance reduces exposure to one quarter, and halving it increases exposure to four times."
+ },
+ {
+  "id": 199,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "What is the purpose of a backup manual timer alongside automatic exposure control?",
+  "back": "It protects the tube and patient from excessive exposure if the AEC circuit fails to terminate the exposure appropriately."
+ },
+ {
+  "id": 200,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Describe how a computed radiography (CR) plate captures a latent image.",
+  "back": "X-rays raise electrons within a photostimulable phosphor plate to a higher, metastable energy state where they remain trapped, forming a latent image until the plate is read."
+ },
+ {
+  "id": 201,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Photostimulable luminescence",
+  "back": "The release of stored energy as visible light when a laser scans a CR phosphor plate, stimulating trapped electrons; a photomultiplier tube detects this light and converts it into an electronic signal."
+ },
+ {
+  "id": 202,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Why must a CR plate be erased with bright light before reuse?",
+  "back": "To clear any residual trapped signal left in the phosphor before the plate is exposed again."
+ },
+ {
+  "id": 203,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Distinguish indirect conversion and direct conversion DR detectors.",
+  "back": "Indirect conversion detectors use a scintillator (cesium iodide or gadolinium oxysulfide) to convert X-rays to light, detected by a photodiode array; direct conversion detectors use a photoconductor (amorphous selenium) to convert X-rays directly to an electronic charge with no light step."
+ },
+ {
+  "id": 204,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Why do direct conversion DR detectors generally provide slightly sharper spatial resolution than indirect conversion detectors?",
+  "back": "There is no intermediate light generation, so there is no lateral light spread within the detector layer."
+ },
+ {
+  "id": 205,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Scenario: A digital radiograph looks acceptable on the display, but the technologist wants to confirm the correct amount of radiation reached the detector. What should they check, and why?",
+  "back": "The exposure index and deviation index, because post-processing automatically adjusts displayed brightness and contrast regardless of actual exposure, so visual inspection alone is unreliable."
+ },
+ {
+  "id": 206,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Deviation index (DI)",
+  "back": "A logarithmic value expressing how far the actual exposure index deviates from the target exposure index for an examination; zero means exposure matched the target, positive values indicate overexposure, negative values indicate underexposure."
+ },
+ {
+  "id": 207,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Fill in the blank: A deviation index outside ± ______ typically indicates a significant technical error requiring investigation and often a repeat exposure.",
+  "back": "3"
+ },
+ {
+  "id": 208,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "Why are exposure index values not directly comparable across different manufacturers' equipment?",
+  "back": "Exposure index calculation methods differ between manufacturers, and even between different systems from the same manufacturer, so technologists must learn the target EI range specific to their own department's equipment."
+ },
+ {
+  "id": 209,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "What risk does inadequate exposure indicator checking create when transitioning from film to digital imaging?",
+  "back": "Unrecognized dose creep, because automatic brightness and contrast processing can visually mask a significantly overexposed image, hiding excessive patient dose from casual review."
+ },
+ {
+  "id": 210,
+  "domain": "imaging_systems_and_equipment",
+  "chapter": "Imaging Equipment and Systems",
+  "front": "How does a grid improve image contrast?",
+  "back": "It absorbs scattered radiation before it reaches the image receptor, reducing the fogging effect that scatter produces on the finished image."
+ },
+ {
+  "id": 211,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "What are the two major divisions of the skeleton?",
+  "back": "The axial skeleton (skull, vertebral column, ribs, and sternum) and the appendicular skeleton (the limbs plus the pectoral and pelvic girdles)."
+ },
+ {
+  "id": 212,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "How many bones make up the cranium, and what are they?",
+  "back": "Eight bones: the single frontal, occipital, sphenoid, and ethmoid bones, plus the paired parietal and temporal bones."
+ },
+ {
+  "id": 213,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "Why is C7 called the vertebra prominens?",
+  "back": "Its long spinous process is easily palpable at the base of the neck, making it a reliable surface landmark for locating the cervicothoracic junction."
+ },
+ {
+  "id": 214,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "What distinguishes the atlas (C1) from a typical vertebra?",
+  "back": "The atlas has no vertebral body and articulates with the occipital condyles, permitting nodding of the head."
+ },
+ {
+  "id": 215,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "What structure on the axis (C2) allows rotation of the head?",
+  "back": "The dens, or odontoid process, a superior projection around which the atlas rotates."
+ },
+ {
+  "id": 216,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "At what vertebral level does the jugular (suprasternal) notch lie?",
+  "back": "Approximately T2 to T3, marking the superior border of the manubrium."
+ },
+ {
+  "id": 217,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "At what vertebral level does the xiphoid process lie, and what does it approximate?",
+  "back": "Approximately T9 to T10, roughly corresponding to the inferior border of the heart."
+ },
+ {
+  "id": 218,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "What is the sternal angle (angle of Louis) and why is it useful?",
+  "back": "The palpable ridge where the manubrium meets the sternal body at T4 to T5, marking the attachment of the second rib and serving as a rib-counting landmark."
+ },
+ {
+  "id": 219,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "At what vertebral level does the iliac crest lie?",
+  "back": "Approximately L4 to L5, making it a critical landmark for centring lumbar spine and abdominal projections."
+ },
+ {
+  "id": 220,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "What landmark is used to centre hip radiographs?",
+  "back": "The greater trochanter of the femur, palpable at the level of the symphysis pubis."
+ },
+ {
+  "id": 221,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "List the five bone shape classifications with an example of each.",
+  "back": "Long (femur), short (carpals), flat (sternum), irregular (vertebrae), and sesamoid (patella)."
+ },
+ {
+  "id": 222,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "What is the difference between intramembranous and endochondral ossification?",
+  "back": "Intramembranous ossification forms flat bones directly from mesenchymal tissue with no cartilage stage, while endochondral ossification forms most other bones from a cartilage model progressively replaced by bone."
+ },
+ {
+  "id": 223,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "Why must a paediatric growth plate never be mistaken for a fracture?",
+  "back": "The epiphyseal plate is a normal radiolucent band of hyaline cartilage where longitudinal growth occurs until it ossifies into the epiphyseal line, typically in the late teens to early twenties."
+ },
+ {
+  "id": 224,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "At what level does the trachea bifurcate into the main bronchi, and what is that point called?",
+  "back": "Approximately T4 to T5, at a point called the carina."
+ },
+ {
+  "id": 225,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "Why do aspirated foreign bodies more commonly lodge in the right lung?",
+  "back": "The right main bronchus is shorter, wider, and more vertical, branching at roughly 25 degrees from vertical compared to the left bronchus's 45 degrees."
+ },
+ {
+  "id": 226,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "How many lobes does the right lung have compared to the left, and why the difference?",
+  "back": "The right lung has three lobes separated by horizontal and oblique fissures; the left has only two lobes since the cardiac notch occupies the space a middle lobe would otherwise fill."
+ },
+ {
+  "id": 227,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "What is the difference between visceral and parietal pleura?",
+  "back": "The visceral pleura adheres directly to the lung surface, while the parietal pleura lines the thoracic wall, diaphragm, and mediastinum, with the pleural cavity between them."
+ },
+ {
+  "id": 228,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "What structures form the right and left borders of the heart on a PA chest radiograph?",
+  "back": "The right border is formed by the right atrium; the left border is formed, superior to inferior, by the aortic knob, main pulmonary artery segment, left atrial appendage, and left ventricle."
+ },
+ {
+  "id": 229,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "What three arteries arise from the aortic arch?",
+  "back": "The brachiocephalic trunk, the left common carotid artery, and the left subclavian artery."
+ },
+ {
+  "id": 230,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "What are the four regions of the stomach?",
+  "back": "The cardia, fundus, body, and pylorus."
+ },
+ {
+  "id": 231,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "What are the three parts of the small intestine, in order?",
+  "back": "The duodenum, jejunum, and ileum."
+ },
+ {
+  "id": 232,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "What anatomic feature radiographically distinguishes the large intestine from the small intestine?",
+  "back": "Haustra, the sacculated pouches created by the taeniae coli, and its generally more peripheral location framing the small bowel."
+ },
+ {
+  "id": 233,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "Describe the dual blood supply of the liver.",
+  "back": "The hepatic artery delivers oxygenated blood from the celiac trunk, while the portal vein delivers nutrient-rich but deoxygenated blood from the gastrointestinal tract and spleen."
+ },
+ {
+  "id": 234,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "What vertebral levels typically span the kidneys, and why does the right kidney sit slightly lower?",
+  "back": "Approximately T12 to L3; the right kidney sits lower because of the space occupied superiorly by the liver."
+ },
+ {
+  "id": 235,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Cross-Sectional Anatomy and Physiology",
+  "front": "On a standard axial CT image, which side of the patient appears on the viewer's left?",
+  "back": "The patient's right side, since axial CT images are displayed as though viewed from the patient's feet looking toward the head, matching the AP radiograph convention."
+ },
+ {
+  "id": 236,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "What SID is conventionally used for chest radiography, and why is it longer than the standard 100 cm used elsewhere?",
+  "back": "180 cm, used specifically to minimize magnification of the cardiac silhouette, since the heart lies close to the anterior chest wall."
+ },
+ {
+  "id": 237,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Why is a PA chest projection preferred over an AP for assessing true cardiac size?",
+  "back": "In a PA projection the heart lies closer to the image receptor, minimizing the magnification that occurs with increased part-to-image-distance."
+ },
+ {
+  "id": 238,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Where is the central ray directed for a standard PA chest projection?",
+  "back": "Horizontally and perpendicular to the receptor, entering at the level of T7, approximately the inferior angle of the scapula."
+ },
+ {
+  "id": 239,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Why is full inspiration essential for a diagnostic PA chest radiograph?",
+  "back": "It maximizes lung aeration, lowers the diaphragm to roughly the tenth posterior rib, and provides the greatest contrast between aerated lung and any underlying pathology; poor inspiration falsely enlarges the cardiac silhouette."
+ },
+ {
+  "id": 240,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "How many posterior ribs should be visible above the diaphragm on a well-inspired PA chest film?",
+  "back": "Ten posterior ribs."
+ },
+ {
+  "id": 241,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Why does chest radiography use a high kVp technique?",
+  "back": "High kVp (commonly 110 to 125) produces a long grey scale that visualizes both dense mediastinal structures and low-density aerated lung on one exposure, and the correspondingly low mAs minimizes motion blur."
+ },
+ {
+  "id": 242,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Why is the lateral chest projection conventionally performed left side against the receptor?",
+  "back": "Because the heart lies predominantly in the left hemithorax, imaging the left side first minimizes cardiac magnification."
+ },
+ {
+  "id": 243,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "What evaluation criterion confirms minimal rotation on a lateral chest radiograph?",
+  "back": "The posterior ribs should be superimposed within approximately one centimetre of each other."
+ },
+ {
+  "id": 244,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Why does a portable AP chest radiograph magnify the cardiac silhouette more than a departmental PA study?",
+  "back": "The anterior chest and heart lie further from the receptor in an AP projection, and SID is often reduced on portable equipment, both increasing magnification."
+ },
+ {
+  "id": 245,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "How is rotation assessed on a portable AP chest radiograph?",
+  "back": "By comparing the distances from the spinous processes to each medial clavicular end, which should be equal in a non-rotated study."
+ },
+ {
+  "id": 246,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "What is an air bronchogram and what does it indicate?",
+  "back": "Branching lucent air-filled bronchi seen against surrounding white consolidated lung tissue, confirming the opacity originates within the lung parenchyma rather than the pleural space."
+ },
+ {
+  "id": 247,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "What is the silhouette sign?",
+  "back": "Loss of a normally sharp anatomical border, such as the heart border or a hemidiaphragm, indicating the adjacent lung tissue has lost its air content, which helps localize the affected lobe."
+ },
+ {
+  "id": 248,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "What is the classic radiographic appearance of pneumothorax?",
+  "back": "A thin, sharp visceral pleural line running parallel to the chest wall with a complete absence of lung markings peripheral to that line."
+ },
+ {
+  "id": 249,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "What signs indicate a tension pneumothorax?",
+  "back": "Mediastinal shift away from the affected side, flattening or inversion of the ipsilateral hemidiaphragm, and rib spreading on the affected side; this is a life-threatening emergency requiring immediate physician notification."
+ },
+ {
+  "id": 250,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "What is the meniscus sign?",
+  "back": "A curved, upward-rising fluid opacity along the lateral chest wall, seen with pleural effusion as fluid layers in the dependent thorax and appears higher laterally than medially."
+ },
+ {
+  "id": 251,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Which view is most sensitive for detecting a small pleural effusion?",
+  "back": "A lateral decubitus view with the affected side down, since free-flowing fluid layers along the dependent lateral chest wall."
+ },
+ {
+  "id": 252,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "How is atelectasis distinguished radiographically from pneumonia?",
+  "back": "Atelectasis shows volume loss signs such as fissure displacement, hemidiaphragm elevation, mediastinal shift toward the affected side, and rib crowding, while pneumonia typically shows normal or slightly increased lung volume."
+ },
+ {
+  "id": 253,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "What are Kerley B lines and what do they indicate?",
+  "back": "Short, horizontal linear opacities at the lung bases representing fluid within interlobular septa, an early sign of interstitial pulmonary edema."
+ },
+ {
+  "id": 254,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Describe the radiographic pattern of alveolar pulmonary edema.",
+  "back": "Bilateral, symmetric, perihilar opacities in a \"bat wing\" or \"butterfly\" distribution, radiating outward from the hila while relatively sparing the lung periphery."
+ },
+ {
+  "id": 255,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "How is the cardiothoracic ratio calculated, and what value is generally abnormal?",
+  "back": "Maximum transverse cardiac diameter divided by maximum internal thoracic diameter at the diaphragm level; a ratio exceeding 50 percent on a true PA film at full inspiration is generally abnormal."
+ },
+ {
+  "id": 256,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Where is the central ray centred for a supine KUB radiograph?",
+  "back": "Perpendicular to the receptor, entering at the level of the iliac crest, which approximates L4."
+ },
+ {
+  "id": 257,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "What evaluation criterion confirms an unrotated supine abdomen radiograph?",
+  "back": "Symmetrical iliac wings and obturator foramina."
+ },
+ {
+  "id": 258,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Why is an upright or decubitus abdomen view essential in addition to a supine view when perforation is suspected?",
+  "back": "A supine radiograph alone can miss even substantial amounts of free air; free air rises and is only reliably detected beneath the diaphragm on an upright view or between the liver and abdominal wall on a decubitus view."
+ },
+ {
+  "id": 259,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Where does free intraperitoneal air characteristically appear on an upright chest or abdomen radiograph?",
+  "back": "As a thin curvilinear lucency beneath the right hemidiaphragm, since the gastric bubble can mimic free air on the left."
+ },
+ {
+  "id": 260,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Why is the left lateral decubitus position preferred over the right when evaluating for free air?",
+  "back": "With the patient on the left side, free air rises and collects along the right side adjacent to the liver, where it is more easily distinguished from the gastric bubble."
+ },
+ {
+  "id": 261,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "How long should a patient lie in the left lateral decubitus position before an abdomen exposure for suspected free air?",
+  "back": "A minimum of five to ten minutes, to allow free air time to rise and collect along the right side."
+ },
+ {
+  "id": 262,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "What three views typically make up an acute abdomen (obstruction) series?",
+  "back": "A supine abdomen, an upright or decubitus abdomen, and often a PA chest radiograph."
+ },
+ {
+  "id": 263,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "What radiographic feature distinguishes small bowel from large bowel obstruction?",
+  "back": "Small bowel obstruction shows centrally distributed dilated loops with valvulae conniventes that fully traverse the lumen, while large bowel obstruction shows peripherally distributed dilated loops with haustra that do not fully traverse the lumen."
+ },
+ {
+  "id": 264,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "What is the \"stepladder\" sign?",
+  "back": "Multiple air-fluid levels at differing heights within dilated small bowel loops on an upright abdomen film, a classic sign of small bowel obstruction."
+ },
+ {
+  "id": 265,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "What is a phlebolith and why is it clinically insignificant?",
+  "back": "A small, rounded pelvic calcification with a lucent centre representing calcified thrombus within a pelvic vein, generally an incidental finding of no clinical significance."
+ },
+ {
+  "id": 266,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Why are most gallstones not visible on a plain abdominal radiograph?",
+  "back": "Most gallstones have insufficient calcium content to be radiopaque, so only a minority are visible on plain film."
+ },
+ {
+  "id": 267,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Why must some abdominal foreign bodies (like most plastics) be evaluated with caution on plain film?",
+  "back": "Radiolucent foreign bodies are not visible on plain radiography, so a negative plain film does not rule out ingestion or retention of a non-radiopaque object."
+ },
+ {
+  "id": 268,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "What is the purpose of the ALARA principle when deciding whether to repeat a non-diagnostic chest or abdomen film?",
+  "back": "It balances keeping patient dose as low as reasonably achievable against the clinical need for a diagnostic image, since a non-diagnostic study that must be repeated adds dose with no diagnostic benefit from the original exposure."
+ },
+ {
+  "id": 269,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Why is confirming or reasonably excluding pregnancy important before an abdominal or pelvic radiographic examination?",
+  "back": "It is a standard radiation protection step in female patients of childbearing potential, following facility pregnancy-screening policy, before proceeding with an abdominal or pelvic exposure."
+ },
+ {
+  "id": 270,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Chest and Abdomen Radiography",
+  "front": "Where is the central ray centred for an upright abdomen radiograph, and why?",
+  "back": "Approximately 5 cm above the iliac crest, to ensure the diaphragm is included since free air rises and collects beneath it in an upright patient."
+ },
+ {
+  "id": 271,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What three standard projections make up a routine hand series?",
+  "back": "PA, PA oblique, and lateral."
+ },
+ {
+  "id": 272,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What does the PA oblique hand projection demonstrate that the true PA cannot?",
+  "back": "It opens the interphalangeal joint spaces that overlap on a true PA and demonstrates the phalanges with less superimposition."
+ },
+ {
+  "id": 273,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What is the ulnar deviation PA wrist (\"scaphoid view\") used for?",
+  "back": "It elongates the scaphoid and reduces foreshortening when a scaphoid fracture is clinically suspected."
+ },
+ {
+  "id": 274,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What landmark confirms a true lateral wrist with no rotation?",
+  "back": "Perfect superimposition of the radius and ulna, with the pisiform sitting roughly in the middle third between the distal radius and the flexor surface of the scaphoid."
+ },
+ {
+  "id": 275,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "Why must both the wrist and elbow joints be included on a forearm radiograph?",
+  "back": "To rule out an associated Monteggia fracture-dislocation (ulna fracture with radial head dislocation) or Galeazzi fracture-dislocation (radius fracture with distal radioulnar joint dislocation)."
+ },
+ {
+  "id": 276,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What is the \"sail sign\" on a lateral elbow radiograph?",
+  "back": "An elevated, visible anterior fat pad, a thin radiolucent triangle pressed away from the humerus by joint effusion, most classically from an occult radial head fracture."
+ },
+ {
+  "id": 277,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "Where is the posterior fat pad located in a healthy elbow, and what does its visibility suggest?",
+  "back": "In a healthy elbow the posterior fat pad is hidden within the olecranon fossa and not visible; any visible posterior fat pad suggests a joint effusion, often from occult fracture."
+ },
+ {
+  "id": 278,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "How should rotation of the humerus be achieved between AP and lateral projections?",
+  "back": "By internally or externally rotating the entire arm from the shoulder, never by rotating only the forearm, since the humerus must move as a single unit for the projections to be truly orthogonal."
+ },
+ {
+  "id": 279,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What tubercle is seen in profile on an externally rotated AP shoulder, and what about internal rotation?",
+  "back": "External rotation places the greater tubercle in profile laterally; internal rotation places the lesser tubercle in profile medially."
+ },
+ {
+  "id": 280,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "Why is the scapular Y projection valuable in acute shoulder trauma?",
+  "back": "It reliably identifies anterior or posterior glenohumeral dislocation, since the humeral head normally superimposes on the junction of the Y, without requiring the arm to be rotated."
+ },
+ {
+  "id": 281,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "How much is the central ray angled for an AP foot projection, and why?",
+  "back": "10 to 15 degrees posteriorly (toward the heel), to compensate for the longitudinal arch and open the tarsometatarsal joint spaces."
+ },
+ {
+  "id": 282,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What does the medial oblique foot projection best demonstrate?",
+  "back": "The sinus tarsi and the fifth metatarsal tuberosity, an area of frequent avulsion fracture in inversion ankle injuries."
+ },
+ {
+  "id": 283,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "How is the mortise ankle projection obtained, and what does it demonstrate?",
+  "back": "By internally rotating the leg 15 to 20 degrees, placing the malleoli parallel to the receptor and opening the ankle mortise uniformly on all three sides for joint space assessment."
+ },
+ {
+  "id": 284,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "Why must both the knee and ankle joints be included on a tibia-fibula radiograph?",
+  "back": "As with the forearm, both adjacent joints must be demonstrated to rule out associated injury at either end of the paired long bones."
+ },
+ {
+  "id": 285,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "Where is the central ray centred for an AP knee projection?",
+  "back": "Half an inch below the apex of the patella."
+ },
+ {
+  "id": 286,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What is a lipohemarthrosis and how is it best demonstrated?",
+  "back": "A fat-fluid level within the knee joint capsule strongly suggesting an intra-articular fracture; it is best seen on a horizontal beam lateral knee projection."
+ },
+ {
+  "id": 287,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What are the tunnel (Camp Coventry) and sunrise (Merchant) knee projections used to evaluate?",
+  "back": "The PA axial tunnel projection evaluates the intercondylar fossa; the axial sunrise projection evaluates the patellofemoral joint."
+ },
+ {
+  "id": 288,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "Why is a cross-table (Danelius-Miller) lateral mandatory, not a frog-leg lateral, when a hip fracture is suspected?",
+  "back": "The frog-leg position requires external rotation and abduction, which can displace an impacted femoral neck fracture and convert a stable injury into an unstable one."
+ },
+ {
+  "id": 289,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "Where is the central ray centred for an AP pelvis projection?",
+  "back": "Midway between the anterior superior iliac spines at the level of the greater trochanters, roughly 5 cm superior to the pubic symphysis."
+ },
+ {
+  "id": 290,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "Why are the legs internally rotated 15 to 20 degrees for an AP pelvis or AP femur projection?",
+  "back": "To place the femoral necks parallel to the image receptor, reducing foreshortening."
+ },
+ {
+  "id": 291,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "Define a comminuted fracture.",
+  "back": "A fracture consisting of more than two fragments, often produced by high-energy trauma."
+ },
+ {
+  "id": 292,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What is a greenstick fracture, and in whom is it seen?",
+  "back": "An incomplete fracture where the bone bends and cracks on the convex side while the concave cortex stays intact; it occurs almost exclusively in the more pliable bone of children."
+ },
+ {
+  "id": 293,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "Compare transverse, oblique, and spiral fracture lines.",
+  "back": "A transverse fracture runs perpendicular to the long axis, an oblique fracture runs at an angle across the long axis, and a spiral fracture wraps helically around the shaft from a rotational force."
+ },
+ {
+  "id": 294,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What is an avulsion fracture, and where is it commonly seen?",
+  "back": "A small bone fragment pulled away at a tendon or ligament attachment site, commonly at the base of the fifth metatarsal or the anterior tibial spine."
+ },
+ {
+  "id": 295,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What is a pathologic fracture?",
+  "back": "A fracture occurring through bone already weakened by an underlying disease process, such as a metastatic lesion, bone tumour, or severe osteoporosis, typically from a mechanism that would not fracture normal bone."
+ },
+ {
+  "id": 296,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What is a stress fracture, and why can it be radiographically invisible early on?",
+  "back": "A fracture developing gradually from repetitive submaximal loading rather than a single trauma; it may be subtle or entirely invisible for the first one to two weeks, sometimes requiring bone scan or MRI for early detection."
+ },
+ {
+  "id": 297,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "Describe a Salter-Harris Type I fracture.",
+  "back": "A fracture through the physis alone with the epiphysis cleanly separating from the metaphysis; plain radiographs can appear entirely normal if the fragments are not displaced."
+ },
+ {
+  "id": 298,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "Describe a Salter-Harris Type II fracture.",
+  "back": "The most common pattern, extending through the physis and exiting through a triangular fragment of metaphysis."
+ },
+ {
+  "id": 299,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "Why does a Salter-Harris Type V fracture carry the highest risk of growth arrest?",
+  "back": "It is a crush injury to the physis itself with no obvious displaced fracture line, frequently missed on initial imaging, and directly compresses the germinal layer of the growth plate."
+ },
+ {
+  "id": 300,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What is the rule of right angles (rule of two projections)?",
+  "back": "A minimum of two projections obtained at 90 degrees to each other are required to fully characterize a fracture or dislocation in three dimensions."
+ },
+ {
+  "id": 301,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "Explain the trauma \"rule of twos.\"",
+  "back": "Two views at right angles, two joints included for long bone shafts, two limbs compared when a finding is uncertain, and two occasions, meaning a follow-up film in 10 to 14 days if initial films are equivocal."
+ },
+ {
+  "id": 302,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "How should a technologist adapt positioning for a trauma patient who cannot be moved into a standard position?",
+  "back": "By modifying tube angle, receptor angle, or patient support with sponges or angle blocks, never by manipulating a suspected fracture to achieve ideal positioning."
+ },
+ {
+  "id": 303,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What must a lateral cervical spine radiograph demonstrate, and why?",
+  "back": "All seven cervical vertebrae plus the C7-T1 junction, since a fracture at the cervicothoracic junction is easily missed if the lower cervical spine is cut off."
+ },
+ {
+  "id": 304,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What is a swimmer's projection used for?",
+  "back": "It is used in cervical spine imaging, with one arm raised overhead to depress the shoulder and visualize the cervicothoracic junction when it is obscured on the standard lateral."
+ },
+ {
+  "id": 305,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What does the AP open mouth (odontoid) projection demonstrate, and what fractures is it used to evaluate?",
+  "back": "It demonstrates the dens and the lateral masses of C1 in relation to C2, used to evaluate Jefferson fracture of the atlas or odontoid fracture."
+ },
+ {
+  "id": 306,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "Why is a breathing technique sometimes used for the lateral thoracic spine?",
+  "back": "A long exposure during shallow continuous respiration blurs overlying rib and lung markings while keeping the vertebral bodies relatively sharp, since the spine moves comparatively little during quiet breathing."
+ },
+ {
+  "id": 307,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What does the \"Scotty dog\" appearance on a lumbar oblique radiograph help detect?",
+  "back": "Spondylolysis, a defect of the pars interarticularis."
+ },
+ {
+  "id": 308,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "How does a compression fracture appear on a lateral spine radiograph?",
+  "back": "As a wedge-shaped vertebra with reduced anterior vertebral body height relative to the posterior height, commonly from osteoporotic collapse or axial loading trauma."
+ },
+ {
+  "id": 309,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "What is spondylolisthesis?",
+  "back": "Anterior slippage of one vertebral body relative to the one below it, most often at L4-L5 or L5-S1, graded by the percentage of anterior displacement and best seen on the lateral projection."
+ },
+ {
+  "id": 310,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Skeletal and Extremity Radiography",
+  "front": "How does osteoarthritis differ radiographically from rheumatoid arthritis?",
+  "back": "Osteoarthritis shows asymmetric joint space narrowing, subchondral sclerosis, and osteophyte formation, while rheumatoid arthritis shows symmetric joint space narrowing, periarticular osteopenia, and marginal erosions."
+ },
+ {
+  "id": 311,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "What is the difference between positive and negative contrast agents?",
+  "back": "Positive agents have a higher atomic number than soft tissue and appear white (radiopaque); negative agents have a lower atomic number and appear black (radiolucent)."
+ },
+ {
+  "id": 312,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "Why does iodine make an effective positive contrast agent?",
+  "back": "Iodine has an atomic number of 53, giving it a k-edge close to the diagnostic imaging energy range, making it an efficient x-ray attenuator."
+ },
+ {
+  "id": 313,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "Why do non-ionic iodinated contrast agents cause fewer adverse reactions than ionic agents?",
+  "back": "Non-ionic agents do not dissociate into charged particles in solution, producing lower osmolality per unit of iodine and therefore fewer physiologic effects and reactions."
+ },
+ {
+  "id": 314,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "Why is barium sulfate dangerous if it escapes into the peritoneal cavity?",
+  "back": "It can incite a severe inflammatory reaction called barium peritonitis, since it is not readily absorbed or cleared once outside the intact gut."
+ },
+ {
+  "id": 315,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "Why is carbon dioxide sometimes preferred over room air as a negative contrast agent?",
+  "back": "Carbon dioxide is highly soluble in blood and is rapidly absorbed and exhaled, reducing the risk of air embolism in vascular applications."
+ },
+ {
+  "id": 316,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "How is iodinated contrast media eliminated from the body in a patient with normal renal function?",
+  "back": "Almost entirely through renal filtration by the glomerulus, with most of the dose cleared from plasma and excreted in urine within a few hours."
+ },
+ {
+  "id": 317,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "What is the single strongest predictor of a future contrast reaction?",
+  "back": "A documented prior reaction to iodinated contrast media."
+ },
+ {
+  "id": 318,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "Does a shellfish allergy indicate increased risk of an iodinated contrast reaction?",
+  "back": "No. The historical belief linking shellfish allergy to iodine allergy has been discredited; a shellfish allergy confers no greater risk than any other food allergy."
+ },
+ {
+  "id": 319,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "Why are β-blocking medications a notable risk factor during a contrast reaction?",
+  "back": "They can blunt the physiologic response to epinephrine, making a reaction harder to treat, and can mask the tachycardic warning sign that often precedes hypotension."
+ },
+ {
+  "id": 320,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "Describe a typical premedication protocol for a patient with a documented prior contrast reaction.",
+  "back": "An oral corticosteroid such as prednisone given at scheduled intervals beginning the day before the study, combined with an antihistamine such as diphenhydramine shortly before injection; this reduces but does not eliminate the risk of a repeat reaction."
+ },
+ {
+  "id": 321,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "What is contrast-induced nephropathy, and how is it defined?",
+  "back": "An acute decline in renal function after intravascular iodinated contrast, generally defined by a measurable rise in serum creatinine within 48 to 72 hours of exposure."
+ },
+ {
+  "id": 322,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "Why is eGFR preferred over creatinine alone for renal function screening before contrast?",
+  "back": "Creatinine alone is affected by muscle mass, age, and sex; eGFR incorporates these factors along with creatinine to give a more reliable estimate of kidney function across different patients."
+ },
+ {
+  "id": 323,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "Why does metformin require special consideration before iodinated contrast administration?",
+  "back": "In a patient with significantly impaired renal function, metformin can accumulate to dangerous levels if renal function deteriorates further after contrast, raising the risk of lactic acidosis."
+ },
+ {
+  "id": 324,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "When is a water-soluble contrast agent used instead of barium for a gastrointestinal study?",
+  "back": "When bowel perforation is clinically suspected, since water-soluble agents are safely absorbed and excreted if they leak into the peritoneal cavity, unlike barium."
+ },
+ {
+  "id": 325,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "Why is the median cubital vein generally the preferred first-choice site for venipuncture?",
+  "back": "It tends to be large, well anchored by surrounding connective tissue, and relatively superficial, making it comfortable for the patient and reliable for cannulation."
+ },
+ {
+  "id": 326,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "Why is the basilic vein a less favoured first choice for venipuncture despite often being the largest antecubital vein?",
+  "back": "It lies close to the brachial artery and median nerve and tends to roll more readily under the needle, increasing the risk of arterial puncture or nerve injury."
+ },
+ {
+  "id": 327,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "What catheter gauge is commonly used for power-injected CT contrast, and why?",
+  "back": "An 18 to 20 gauge catheter, selected to withstand the higher flow rates and pressures generated by a power injector."
+ },
+ {
+  "id": 328,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "At what angle is the needle inserted relative to the skin during standard venipuncture technique?",
+  "back": "Approximately 15 to 30 degrees, bevel up, following the direction of the vein."
+ },
+ {
+  "id": 329,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "What is the difference between infiltration and extravasation?",
+  "back": "Infiltration is the leakage of a non-vesicant fluid such as plain saline into subcutaneous tissue, while extravasation refers specifically to leakage of contrast media or another vesicant or irritant substance."
+ },
+ {
+  "id": 330,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "What is often the earliest and most sensitive sign of contrast extravasation during a power injection?",
+  "back": "Patient-reported pain at the injection site, which frequently precedes any visible swelling or injector pressure alarm."
+ },
+ {
+  "id": 331,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "How is a hematoma from venipuncture best prevented?",
+  "back": "Applying firm, direct pressure over the puncture site for an adequate period after needle or catheter removal."
+ },
+ {
+  "id": 332,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "How is inadvertent arterial puncture recognized during venipuncture?",
+  "back": "By bright red, pulsatile blood return under higher pressure than typical venous flow, requiring immediate needle withdrawal and sustained direct pressure."
+ },
+ {
+  "id": 333,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "Contrast a mild versus a moderate contrast reaction.",
+  "back": "A mild reaction includes limited, self-resolving signs like a few hives or transient nausea with no airway or circulatory compromise; a moderate reaction includes more pronounced signs such as widespread urticaria, mild bronchospasm, or transient hypotension and requires active treatment."
+ },
+ {
+  "id": 334,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "What defines a severe contrast reaction, and what is the required immediate response?",
+  "back": "Life-threatening signs such as airway compromise, hypotensive shock, or cardiac arrest; the response is immediate activation of the emergency response system, epinephrine per protocol, high-flow oxygen, and basic life support as needed."
+ },
+ {
+  "id": 335,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "Contrast Media Pharmacology and Venipuncture",
+  "front": "Why should the intravenous line be kept in place and patent during a contrast reaction?",
+  "back": "To allow rapid administration of emergency medications if the reaction escalates."
+ },
+ {
+  "id": 336,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "What are the two fixed reference points on the Hounsfield unit scale?",
+  "back": "Water at 0 Hounsfield units and air at negative 1000 Hounsfield units."
+ },
+ {
+  "id": 337,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "How do window width and window level differ in CT image display?",
+  "back": "Window width determines the total range of Hounsfield units displayed as greyscale; window level (window centre) determines the midpoint of that range."
+ },
+ {
+  "id": 338,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "Why can a CT dataset be rewindowed repeatedly without additional radiation exposure?",
+  "back": "The underlying attenuation data does not change; only the way it is displayed changes."
+ },
+ {
+  "id": 339,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "What is pitch in helical CT, and what does a pitch of 1 mean?",
+  "back": "Pitch is table travel per gantry rotation divided by total beam width; a pitch of 1 means the table moves exactly the beam width per rotation, giving contiguous coverage with no gaps or overlap."
+ },
+ {
+  "id": 340,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "What is the trade-off of using a pitch > 1 in helical CT?",
+  "back": "It speeds up the scan and reduces patient dose but leaves small gaps in raw data that must be interpolated."
+ },
+ {
+  "id": 341,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "Why is non-contrast head CT the first-line study for suspected acute stroke or intracranial haemorrhage?",
+  "back": "Fresh blood is hyperdense relative to normal brain tissue and is readily distinguished from brain parenchyma on an unenhanced scan."
+ },
+ {
+  "id": 342,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "How does bolus tracking work for CT pulmonary angiography?",
+  "back": "Software monitors contrast arrival in the main pulmonary artery and automatically triggers the scan once a threshold density is reached, typically 15 to 25 seconds after injection begins."
+ },
+ {
+  "id": 343,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "In a multiphase liver CT protocol, what does the arterial phase capture and when is it acquired?",
+  "back": "It captures hypervascular lesions such as hepatocellular carcinoma at their brightest, acquired around 25 to 35 seconds after injection."
+ },
+ {
+  "id": 344,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "What does CT urography's delayed excretory phase capture, and when is it acquired?",
+  "back": "It captures contrast excreted into the renal collecting systems, ureters, and bladder, typically acquired 5 to 15 minutes after injection."
+ },
+ {
+  "id": 345,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "What is automatic tube current modulation in CT, and why is it used?",
+  "back": "It adjusts the milliamperage in real time based on patient thickness and attenuation as the tube rotates and moves along the patient, reducing dose while maintaining image quality."
+ },
+ {
+  "id": 346,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "What is pulsed fluoroscopy, and why does it reduce patient dose?",
+  "back": "The x-ray beam is delivered in short synchronized bursts rather than continuously, so total dose is substantially reduced compared to continuous fluoroscopy, especially at lower pulse rates."
+ },
+ {
+  "id": 347,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "How do flat panel detectors differ from image intensifiers in fluoroscopy?",
+  "back": "Flat panel detectors produce a digital image without geometric distortion, in a thinner, lighter housing, with improved dynamic range, unlike image intensifiers, which suffer from pincushion distortion at the periphery."
+ },
+ {
+  "id": 348,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "What is myelography, and what technique is used to administer the contrast?",
+  "back": "The injection of water-soluble iodinated contrast into the subarachnoid space via lumbar puncture, followed by fluoroscopic observation to outline the spinal cord, nerve roots, and thecal sac."
+ },
+ {
+  "id": 349,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "What vascular access technique is used for diagnostic angiography?",
+  "back": "The Seldinger technique: needle puncture, guidewire insertion, and catheter exchange over the wire, most commonly via the femoral or radial artery."
+ },
+ {
+  "id": 350,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "Name three therapeutic interventional radiology procedures.",
+  "back": "Angioplasty (balloon dilation of a stenotic vessel), stent placement, embolization, or thrombolysis."
+ },
+ {
+  "id": 351,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "What is the physical principle behind DEXA bone density measurement?",
+  "back": "Differential attenuation of two distinct X-ray energy levels through bone and soft tissue allows the soft tissue component to be mathematically subtracted, isolating attenuation attributable to bone mineral content."
+ },
+ {
+  "id": 352,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "What T-score range defines osteopenia on a DEXA scan?",
+  "back": "A T-score between negative 1.0 and negative 2.5."
+ },
+ {
+  "id": 353,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "What is the difference between a T-score and a Z-score on a DEXA report?",
+  "back": "The T-score compares the patient to peak bone density of a healthy young adult of the same sex; the Z-score compares the patient to age-, sex-, and sometimes ethnicity-matched peers."
+ },
+ {
+  "id": 354,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "What is the difference between the craniocaudal (CC) and mediolateral oblique (MLO) mammographic views?",
+  "back": "The CC view passes vertically superior to inferior through the compressed breast, capturing the medial and central portions well, while the MLO view is angled to capture the greatest volume of breast tissue, including the axillary tail and upper outer quadrant."
+ },
+ {
+  "id": 355,
+  "domain": "clinical_principles_procedures_and_contrast_pharmaceuticals",
+  "chapter": "CT Fluoroscopy and Specialized Procedures",
+  "front": "What does a BI-RADS category 4 mammographic finding indicate?",
+  "back": "A suspicious finding warranting biopsy, further subdivided into 4A, 4B, and 4C to reflect increasing degrees of suspicion."
+ },
+ {
+  "id": 356,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What three things does a technologist decide when critiquing a finished radiograph?",
+  "back": "Whether the image is diagnostic, whether there is a technical or positioning flaw that must be corrected, and whether the image needs to be repeated."
+ },
+ {
+  "id": 357,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why is image critique considered a patient safety skill rather than an aesthetic judgment?",
+  "back": "Because technical or positioning flaws can hide clinically important findings, such as a pneumothorax at the lung apex or a subtle fracture line, directly affecting patient care."
+ },
+ {
+  "id": 358,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "When is the single most effective quality control action a technologist can take on every examination?",
+  "back": "When a systematic image critique is performed immediately at the console, before the patient leaves the department."
+ },
+ {
+  "id": 359,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "List the six elements of the systematic image critique sequence in the order commonly taught.",
+  "back": "Positioning, exposure and density, contrast, sharpness and detail, artifacts, and markers."
+ },
+ {
+  "id": 360,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Fill in the blank: A technically perfect exposure of an incorrectly positioned patient is still a ____ image.",
+  "back": "non-diagnostic"
+ },
+ {
+  "id": 361,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why is positioning accuracy evaluated first in the critique sequence?",
+  "back": "Because even a technically perfect exposure is non-diagnostic if the patient was positioned incorrectly."
+ },
+ {
+  "id": 362,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What four questions does a technologist ask when evaluating positioning accuracy?",
+  "back": "Are the correct landmarks visible and symmetrically demonstrated, is the correct amount of anatomy included within the borders, is any rotation present, and does the projection show what the requisition asked for."
+ },
+ {
+  "id": 363,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "On a PA chest projection, what confirms the patient was not rotated?",
+  "back": "The medial ends of the clavicles are equidistant from the spinous processes."
+ },
+ {
+  "id": 364,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "On a PA chest radiograph, what must be included within the field of view to confirm adequate positioning?",
+  "back": "Both costophrenic angles."
+ },
+ {
+  "id": 365,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: A lateral cervical spine radiograph does not show the C7-T1 junction. What is the most likely positioning error?",
+  "back": "Failure to depress the shoulders enough to demonstrate the lower cervical spine."
+ },
+ {
+  "id": 366,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "How many vertebrae, plus the level below, should be visible on a lateral cervical spine projection?",
+  "back": "All seven cervical vertebrae and the C7-T1 junction."
+ },
+ {
+  "id": 367,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What controls the overall degree of blackening (density) on a radiographic image?",
+  "back": "Milliamperage-seconds (mAs), primarily."
+ },
+ {
+  "id": 368,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What does the numeric exposure indicator on a digital receptor tell the technologist?",
+  "back": "Whether the receptor actually received an appropriate quantity of radiation, regardless of how the final displayed brightness was adjusted by post-processing."
+ },
+ {
+  "id": 369,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Fill in the blank: Digital image processing can partially ____ an exposure error by automatically adjusting the displayed brightness and contrast.",
+  "back": "mask"
+ },
+ {
+  "id": 370,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why should a technologist always check the numeric exposure indicator rather than relying on visual appearance alone?",
+  "back": "Because a digitally processed image can look acceptable on screen even when the receptor dose was too low or too high."
+ },
+ {
+  "id": 371,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What controls contrast on a radiographic image?",
+  "back": "Kilovoltage, the use of grids, and digital post-processing algorithms."
+ },
+ {
+  "id": 372,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What does adequate contrast allow the eye to do?",
+  "back": "Distinguish between adjacent tissues of similar density, such as soft tissue planes or a subtle lung nodule from surrounding lung parenchyma."
+ },
+ {
+  "id": 373,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Describe the appearance of an image with excessive contrast.",
+  "back": "Very black and very white areas with little grey scale in between, which can obscure detail in tissues of intermediate density."
+ },
+ {
+  "id": 374,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Describe the appearance of an image with insufficient contrast.",
+  "back": "A flat, grey image in which structures of differing density blend together and fine detail is lost."
+ },
+ {
+  "id": 375,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What geometric factors affect the sharpness of recorded detail?",
+  "back": "Focal spot size, source-to-image distance, and object-to-image distance."
+ },
+ {
+  "id": 376,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is the most common and most preventable cause of unsharpness in clinical practice?",
+  "back": "Patient or equipment motion during the exposure."
+ },
+ {
+  "id": 377,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Define artifact in the context of radiographic imaging.",
+  "back": "Any unwanted density or pattern on the image that does not represent true anatomy."
+ },
+ {
+  "id": 378,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why is the anatomical side marker check given special weight in both clinical practice and on the certification exam?",
+  "back": "Because an incorrect or missing marker is treated as a critical error regardless of how well every other element of the image was performed."
+ },
+ {
+  "id": 379,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What must be true about the sequence in which the critique elements are checked?",
+  "back": "A technologist may reorder the steps to suit personal workflow, but every element must be checked before the patient leaves the room."
+ },
+ {
+  "id": 380,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "On chest radiography, what structure should be seen in the midline?",
+  "back": "The trachea."
+ },
+ {
+  "id": 381,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Where is the gastric air bubble normally located on a chest radiograph?",
+  "back": "Beneath the left hemidiaphragm."
+ },
+ {
+  "id": 382,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "How many posterior ribs should be visible above the diaphragm on a properly inspired chest radiograph?",
+  "back": "Ten posterior ribs."
+ },
+ {
+  "id": 383,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What landmarks does a technologist check on abdominal radiography for positioning and for recognizing pathology such as free air or obstruction?",
+  "back": "The psoas muscle shadows, renal outlines when visible, the properitoneal fat stripe, and the gas pattern within bowel loops."
+ },
+ {
+  "id": 384,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "On extremity radiography, what confirms a true lateral knee projection?",
+  "back": "Superimposition of the femoral condyles."
+ },
+ {
+  "id": 385,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What relationship confirms adequate internal rotation on an ankle mortise view?",
+  "back": "The specific relationship of the distal fibula (lateral malleolus) to the tibia and talus."
+ },
+ {
+  "id": 386,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What landmarks are used on extremity radiography besides joint spaces and cortical margins?",
+  "back": "Epiphyseal plates in the pediatric patient and the specific bony landmarks used to confirm a true anteroposterior or lateral projection."
+ },
+ {
+  "id": 387,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What reference points are used on skull and facial bone imaging?",
+  "back": "The orbital rims, the petrous ridges, the mandibular condyles, and the maxillary sinuses."
+ },
+ {
+  "id": 388,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What structures does a technologist check for symmetry, alignment, and adequate penetration on spine imaging?",
+  "back": "The pedicles, spinous processes, intervertebral disc spaces, and the vertebral body endplates."
+ },
+ {
+  "id": 389,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why is recognizing normal anatomical landmarks not simply an anatomy exercise?",
+  "back": "It is the mechanism by which a technologist confirms a projection is correctly performed, and it is the same vocabulary a radiologist uses when describing a finding."
+ },
+ {
+  "id": 390,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Fill in the blank: An artifact is any density, marking, or pattern on a radiographic image that does not represent actual patient ____.",
+  "back": "anatomy"
+ },
+ {
+  "id": 391,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What does motion artifact look like on a radiograph?",
+  "back": "Blurring or streaking of anatomical margins."
+ },
+ {
+  "id": 392,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "List three causes of motion artifact.",
+  "back": "Voluntary patient movement, involuntary movement such as peristalsis or cardiac pulsation, and breathing during the exposure."
+ },
+ {
+  "id": 393,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What corrective actions reduce motion unsharpness?",
+  "back": "Using the shortest exposure time practical, clear and well-timed patient communication and breathing instructions, immobilization devices, and suspending exposure until involuntary tremor has settled where possible."
+ },
+ {
+  "id": 394,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What does grid cutoff typically produce on an image?",
+  "back": "Uneven density, most commonly seen as reduced density at the periphery of the image or across the entire image."
+ },
+ {
+  "id": 395,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What causes off-level grid cutoff?",
+  "back": "The tube and grid are not parallel."
+ },
+ {
+  "id": 396,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What causes off-centre grid cutoff?",
+  "back": "The central ray is not aligned with the centre of the grid."
+ },
+ {
+  "id": 397,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What causes off-focus grid cutoff?",
+  "back": "The source-to-image distance falls outside the grid's designed focal range."
+ },
+ {
+  "id": 398,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What grid error is produced by upside-down focused grid placement?",
+  "back": "Grid cutoff, since a focused grid must be positioned correctly for its lead strips to align with the diverging x-ray beam."
+ },
+ {
+  "id": 399,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why does recognizing the specific pattern of density loss from grid cutoff matter?",
+  "back": "It helps the technologist identify which type of grid error occurred so it can be corrected before repeating the exposure."
+ },
+ {
+  "id": 400,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: An image shows symmetric bilateral cutoff versus cutoff concentrated on one side. What does comparing these patterns help identify?",
+  "back": "Which type of grid alignment error occurred, for example off-level versus off-centre."
+ },
+ {
+  "id": 401,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What causes double exposure on a digital radiography system?",
+  "back": "Two separate exposures made on the same image receptor without an intervening readout."
+ },
+ {
+  "id": 402,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "How is double exposure prevented?",
+  "back": "By confirming the receptor has been cleared or by using correct workflow steps in the digital radiography system to select a new image for each exposure."
+ },
+ {
+  "id": 403,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What CR/DR handling errors produce scratches, plate fog, and processing artifacts?",
+  "back": "Improper computed radiography and digital radiography plate or detector handling."
+ },
+ {
+  "id": 404,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What causes plate fog on a computed radiography cassette?",
+  "back": "Scattered radiation exposure during storage."
+ },
+ {
+  "id": 405,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "How are CR/DR plate handling artifacts prevented?",
+  "back": "Correct plate handling, storage away from sources of scatter, and routine equipment quality control."
+ },
+ {
+  "id": 406,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Describe the appearance of a static artifact.",
+  "back": "Branching, tree-like, or spotty density patterns."
+ },
+ {
+  "id": 407,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What causes static artifacts?",
+  "back": "Electrostatic discharge, most often related to low humidity environments and friction between the image receptor and its handling surfaces."
+ },
+ {
+  "id": 408,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "How is static artifact occurrence reduced?",
+  "back": "Maintaining appropriate humidity levels in the imaging suite and handling cassettes and plates carefully."
+ },
+ {
+  "id": 409,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is the technologist's responsibility regarding externally worn radiopaque items before exposure?",
+  "back": "To identify and remove removable external objects before exposure whenever clinically appropriate."
+ },
+ {
+  "id": 410,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: An unexpected radiopaque object is visualized on a finished image. What should the technologist do?",
+  "back": "Recognize that it warrants clinical correlation rather than simply assuming it is an artifact."
+ },
+ {
+  "id": 411,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "List examples of foreign object artifacts internal to the patient.",
+  "back": "Surgical clips, retained medical devices, or swallowed items."
+ },
+ {
+  "id": 412,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What causes a digital processing artifact where the image appears markedly too light or too dark despite appropriate exposure?",
+  "back": "Improper histogram analysis leading to inappropriate automatic brightness and contrast scaling, particularly when the collimated field or anatomy does not match what the system's algorithm expects."
+ },
+ {
+  "id": 413,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Fill in the blank: A ____ artifact appears as scratches, plate fog, or processing marks from improper CR or DR handling.",
+  "back": "handling"
+ },
+ {
+  "id": 414,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What clinical items can cause external foreign object artifacts?",
+  "back": "Jewellery, snaps, buttons, hairpins, or clothing with radiopaque decoration."
+ },
+ {
+  "id": 415,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What visual appearance does quantum mottle produce on an underexposed digital image?",
+  "back": "A mottled or grainy appearance."
+ },
+ {
+  "id": 416,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What causes quantum mottle on a digital image?",
+  "back": "An insufficient number of x-ray photons reaching the receptor to form a smooth image."
+ },
+ {
+  "id": 417,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is the correction for an underexposed digital image?",
+  "back": "Increase milliamperage-seconds, since mAs is the primary controller of the quantity of radiation delivered and therefore of receptor dose and image noise."
+ },
+ {
+  "id": 418,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why does simply brightening a displayed underexposed image through post-processing not correct the problem?",
+  "back": "It does not correct the underlying noise problem and does not change the fact that receptor dose was inadequate."
+ },
+ {
+  "id": 419,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: An image's exposure indicator is above the acceptable range but the image appears visually acceptable on screen. What does this represent?",
+  "back": "Overexposure, which digital receptors' wide dynamic range and automatic processing can mask visually, which is why the numeric exposure indicator must always be checked."
+ },
+ {
+  "id": 420,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is the correction for an overexposed digital image?",
+  "back": "Reduce milliamperage-seconds for the next exposure and document or flag the occurrence per departmental quality assurance protocol."
+ },
+ {
+  "id": 421,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why is overexposure a concern even when the resulting image looks acceptable?",
+  "back": "It represents unnecessary patient radiation dose."
+ },
+ {
+  "id": 422,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why does repeated overexposure across multiple exams indicate a deeper problem?",
+  "back": "It indicates a technique chart or workflow problem that should be corrected at the source."
+ },
+ {
+  "id": 423,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is the primary correction for poor image contrast?",
+  "back": "Kilovoltage adjustment and, where used, appropriate grid selection."
+ },
+ {
+  "id": 424,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "How does kilovoltage relate to contrast?",
+  "back": "Kilovoltage controls the penetrating power of the beam and therefore the scale of contrast produced in the image."
+ },
+ {
+  "id": 425,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "How is scatter radiation, which degrades contrast, controlled?",
+  "back": "Through collimation and grid use."
+ },
+ {
+  "id": 426,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Can window width and window level adjustments at the review workstation substitute for correct technical factor selection at the time of exposure?",
+  "back": "No. They can improve displayed contrast for interpretation, but they do not substitute for correct technical factors with respect to patient dose and image noise fixed at the moment of exposure."
+ },
+ {
+  "id": 427,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "How does motion blur differ in pattern from geometric unsharpness?",
+  "back": "Motion blur has a directional quality, often following the direction of movement, while geometric unsharpness tends to affect the entire image or a structure uniformly."
+ },
+ {
+  "id": 428,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: A chest radiograph shows sharp detail in the upper thorax but blurred diaphragm and lower lung fields. What is the likely cause?",
+  "back": "Motion unsharpness from breathing during the exposure."
+ },
+ {
+  "id": 429,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What causes geometric unsharpness?",
+  "back": "A large focal spot or excessive object-to-image distance."
+ },
+ {
+  "id": 430,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "How is motion unsharpness corrected?",
+  "back": "By reducing exposure time and improving patient communication, cooperation, and immobilization."
+ },
+ {
+  "id": 431,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "How is geometric unsharpness corrected?",
+  "back": "By focal spot selection and positioning the anatomy of interest as close to the image receptor as clinically possible."
+ },
+ {
+  "id": 432,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why is correct placement of the anatomical side marker one of the most heavily emphasized quality elements in Canadian radiographic practice?",
+  "back": "Because the consequence of an error is severe and can lead to a surgical or interventional procedure being performed on the wrong side."
+ },
+ {
+  "id": 433,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "When must the anatomical side marker be placed?",
+  "back": "Within the collimated field of view at the time of exposure whenever possible."
+ },
+ {
+  "id": 434,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What must the anatomical side marker correctly identify?",
+  "back": "The true anatomical side of the patient being imaged, not the side convenient for the technologist's workflow."
+ },
+ {
+  "id": 435,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Is post-exposure digital annotation of a side marker that was not physically present during the exposure a recommended routine practice?",
+  "back": "No, it is discouraged as routine practice and, where policy permits it at all, is reserved for specific documented circumstances."
+ },
+ {
+  "id": 436,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why does an electronically added marker carry higher risk than a marker physically present during exposure?",
+  "back": "It carries a higher risk of human error and does not provide a verifiable record that the correct side was identified and confirmed at the time the patient was on the table."
+ },
+ {
+  "id": 437,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What must a technologist verify about patient identification annotation before finalizing an image?",
+  "back": "That it is accurate, whether embedded automatically from the radiology information system or entered manually."
+ },
+ {
+  "id": 438,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why is an image associated with the wrong patient record a serious error?",
+  "back": "It can lead to a diagnosis being attributed to the wrong individual or a needed examination being missed for the correct patient."
+ },
+ {
+  "id": 439,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: A technologist discovers a marker error before the patient has left the department, and there is doubt about which side was actually imaged. What is the safest response?",
+  "back": "Repeat the exposure with the correct marker physically present in the field at the time of the new exposure."
+ },
+ {
+  "id": 440,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Under what limited condition may a documented correction procedure be used instead of repeating the exposure for a marker error?",
+  "back": "When the correct side can be confirmed with certainty and departmental policy allows a specific documented correction procedure."
+ },
+ {
+  "id": 441,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What should a technologist never do when a marker error is discovered?",
+  "back": "Never guess at which side was imaged after the fact, and never permanently obscure or remove information that could help resolve the ambiguity."
+ },
+ {
+  "id": 442,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What must happen when a marker error is discovered after the patient has left the department?",
+  "back": "The event must be documented according to the facility's incident reporting or quality assurance protocol."
+ },
+ {
+  "id": 443,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is the purpose of documenting marker errors and repeated examinations?",
+  "back": "To support patient safety and departmental quality improvement by allowing trends to be identified and addressed through education or workflow change."
+ },
+ {
+  "id": 444,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Fill in the blank: A professional culture of transparent incident reporting, rather than ____ of errors, is a foundational expectation of safe radiographic practice in Canada.",
+  "back": "concealment"
+ },
+ {
+  "id": 445,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Is incident documentation for a marker error meant to be a punitive record?",
+  "back": "No, it is never treated as a punitive record whose purpose is to penalize an individual technologist for an honest error."
+ },
+ {
+  "id": 446,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What pattern on a chest radiograph may represent pneumonia, atelectasis, or consolidation?",
+  "back": "A wedge-shaped area of increased density within a lung field."
+ },
+ {
+  "id": 447,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: A technologist notices a wedge-shaped density on a chest image. What should the technologist confirm about the image?",
+  "back": "That it adequately demonstrates the full extent of the finding, including frontal and lateral projections where the requisition and protocol call for them."
+ },
+ {
+  "id": 448,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What pattern on a chest radiograph may represent a pneumothorax?",
+  "back": "A thin line of lucency paralleling the chest wall, separated from lung markings."
+ },
+ {
+  "id": 449,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why might an expiratory chest image obscure a small pneumothorax?",
+  "back": "Because an expiratory image can hide a small pneumothorax that would be visible on a properly inspired image."
+ },
+ {
+  "id": 450,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What does a sharp lucent line crossing normal bony cortex most likely represent?",
+  "back": "A probable fracture."
+ },
+ {
+  "id": 451,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: A wrist series demonstrates a fracture but only includes one projection of the forearm. What is the concern?",
+  "back": "An incomplete series can miss a second, less obvious fracture elsewhere along the same bone, so both standard orthogonal projections and adjacent joints should be demonstrated where clinically indicated."
+ },
+ {
+  "id": 452,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What does free air beneath the diaphragm on an upright or lateral decubitus abdominal image represent?",
+  "back": "A surgical emergency indicating perforation of a hollow viscus."
+ },
+ {
+  "id": 453,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: A technologist recognizes free air under the diaphragm on an abdominal image. What is the appropriate response?",
+  "back": "Understand the urgency and promptly make the image available for interpretation rather than treating the examination as routine."
+ },
+ {
+  "id": 454,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "When a technologist observes an unexpected or urgent finding, what is the appropriate professional response?",
+  "back": "Prompt communication through the appropriate channel, typically notifying the radiologist or ordering physician's team according to departmental critical results protocol."
+ },
+ {
+  "id": 455,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Should a technologist verbally communicate a diagnosis to a patient after noticing an abnormal finding?",
+  "back": "No, diagnosis and disclosure of results remain within the scope of practice of the interpreting physician."
+ },
+ {
+  "id": 456,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is the technologist's role when an urgent finding is observed?",
+  "back": "Ensure image quality is adequate to demonstrate the finding, escalate through appropriate clinical channels, and document the observation according to departmental policy."
+ },
+ {
+  "id": 457,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: An image is rotated and underexposed but also shows an obvious abnormal finding. Should it be repeated?",
+  "back": "Yes, an obvious finding does not excuse technical deficiencies elsewhere in the image, so the image still requires a repeat for the technical reasons."
+ },
+ {
+  "id": 458,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: An image meets all technical and positioning criteria but shows an unexpected concerning finding. Should it be repeated?",
+  "back": "No, a technologist should never repeat an examination purely because a finding is present if the image itself meets all technical and positioning criteria."
+ },
+ {
+  "id": 459,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why should a technically adequate diagnostic image never be repeated solely because it shows a concerning finding?",
+  "back": "Repeating it exposes the patient to additional unnecessary radiation dose and delays the interpretation of an image that already demonstrates what is clinically needed."
+ },
+ {
+  "id": 460,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is the difference between a technologist noticing pathology and diagnosing it?",
+  "back": "A technologist's trained eye may be first to notice an abnormality, but making the diagnosis remains the responsibility of the interpreting radiologist or physician."
+ },
+ {
+  "id": 461,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What benefit does consistently applying the systematic critique sequence provide to a department?",
+  "back": "It prevents the majority of repeat examinations, protects patients from unnecessary additional radiation dose, and produces consistently diagnostic images."
+ },
+ {
+  "id": 462,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is a departmental peer review program?",
+  "back": "A program in which technologists review a sample of each other's completed examinations against an objective critique standard."
+ },
+ {
+  "id": 463,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What systemic issues can a peer review program identify?",
+  "back": "A technique chart entry that consistently underexposes a certain body habitus, or a recurring positioning error on a specific projection indicating a need for staff education."
+ },
+ {
+  "id": 464,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What kind of exam questions should candidates expect from the image and data quality analysis domain?",
+  "back": "Scenario-based questions presenting a described or depicted image with a specific flaw, asking the candidate to identify the flaw's cause, the appropriate corrective technical factor change, or the appropriate professional response."
+ },
+ {
+  "id": 465,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why does correcting a technical error after the patient has left the department carry extra cost?",
+  "back": "It means calling the patient back, which delays diagnosis, increases the patient's radiation dose from a second examination, and wastes departmental resources."
+ },
+ {
+  "id": 466,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What quality review mechanisms exist for radiographs in a Canadian imaging department?",
+  "back": "An informal check by the technologist at the console, a formal peer review program, and an accreditation body's periodic image audit."
+ },
+ {
+  "id": 467,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Fill in the blank: The technologist's own critique at the time of image acquisition is the first and most important checkpoint because it happens ____ the patient has left the department.",
+  "back": "before"
+ },
+ {
+  "id": 468,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: A knee radiograph shows the femoral condyles clearly separated rather than superimposed. What positioning error does this suggest?",
+  "back": "The knee was not truly lateral; rotation is present."
+ },
+ {
+  "id": 469,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What does symmetric demonstration of anatomy on a projection typically confirm?",
+  "back": "That no rotation is present distorting the true anatomical relationships."
+ },
+ {
+  "id": 470,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is checked to confirm the correct amount of anatomy is included in a projection?",
+  "back": "That the anatomy demonstrated is included within the borders of the image receptor as required by the projection's positioning criteria."
+ },
+ {
+  "id": 471,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why must the projection actually show what the requisition asked for?",
+  "back": "Because an image that is technically well produced but does not answer the clinical question is still not diagnostic for the ordered examination."
+ },
+ {
+  "id": 472,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is the relationship between milliamperage-seconds and image noise on a digital system?",
+  "back": "Milliamperage-seconds controls the quantity of radiation delivered to the receptor, and insufficient mAs produces increased image noise, seen as quantum mottle."
+ },
+ {
+  "id": 473,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: An exposure indicator reads within range, but the displayed image appears too dark. What is the likely explanation?",
+  "back": "A post-processing or windowing issue rather than an actual exposure error, since the numeric exposure indicator reflects the receptor dose independent of display brightness."
+ },
+ {
+  "id": 474,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What visual clue distinguishes excessive contrast from insufficient contrast on a radiograph?",
+  "back": "Excessive contrast shows very black and very white areas with minimal grey scale, while insufficient contrast shows a flat, grey image with structures blending together."
+ },
+ {
+  "id": 475,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why can differentiating soft tissue planes require adequate contrast rather than just adequate density?",
+  "back": "Because contrast, not density, governs the eye's ability to distinguish between adjacent tissues of similar density."
+ },
+ {
+  "id": 476,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What geometric factor, besides focal spot size, affects sharpness through the distance between the object and the receptor?",
+  "back": "Object-to-image distance."
+ },
+ {
+  "id": 477,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: An extremity radiograph shows uniform blur across the entire image with no directional streaking. Is this more consistent with motion or geometric unsharpness?",
+  "back": "Geometric unsharpness, since it tends to affect the entire image or a specific structure uniformly rather than showing directional streaking."
+ },
+ {
+  "id": 478,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is the corrective action focus for geometric unsharpness versus motion unsharpness?",
+  "back": "Geometric unsharpness is corrected through focal spot selection and reducing object-to-image distance; motion unsharpness is corrected through shorter exposure time and better patient cooperation."
+ },
+ {
+  "id": 479,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: A cassette-based image shows spotty, tree-like density marks after a very dry winter day in the imaging suite. What artifact is this and why?",
+  "back": "A static artifact, caused by electrostatic discharge related to low humidity and friction between the image receptor and handling surfaces."
+ },
+ {
+  "id": 480,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: An image shows two overlapping sets of anatomy superimposed on one receptor. What artifact is this?",
+  "back": "Double exposure."
+ },
+ {
+  "id": 481,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: A digital chest image displays markedly too dark despite normal technical factors having been used, and the collimated field is unusually small. What is the likely cause?",
+  "back": "A processing artifact from improper histogram analysis, where the small collimated field does not match what the automatic brightness and contrast algorithm expects."
+ },
+ {
+  "id": 482,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What term describes the appearance of a well-formed digital image with an adequate number of x-ray photons reaching the receptor?",
+  "back": "A smooth image, without the mottled or grainy appearance of quantum mottle."
+ },
+ {
+  "id": 483,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why is checking the exposure indicator described as more reliable than judging exposure by appearance?",
+  "back": "Because digital processing and a wide dynamic range can make both underexposed and overexposed images look visually acceptable on the display."
+ },
+ {
+  "id": 484,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What professional value underlies documenting a marker error rather than concealing it?",
+  "back": "Transparent incident reporting supports patient safety and quality improvement rather than penalizing the individual technologist."
+ },
+ {
+  "id": 485,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: A technologist is uncertain whether a right-side marker or a left-side marker was actually present during exposure, and the patient has already left. What should be documented?",
+  "back": "The marker discrepancy must be documented through the facility's incident reporting or quality assurance protocol."
+ },
+ {
+  "id": 486,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is the shared vocabulary between a technologist evaluating positioning and a radiologist describing a finding?",
+  "back": "Normal anatomical landmarks, such as costophrenic angles, psoas shadows, or vertebral endplates."
+ },
+ {
+  "id": 487,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Fill in the blank: On abdominal radiography, the ____ stripe is a landmark used for positioning and for recognizing pathology such as free air or obstruction.",
+  "back": "properitoneal fat"
+ },
+ {
+  "id": 488,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is the clinical significance of recognizing a pneumothorax pattern early during image critique?",
+  "back": "It prompts the technologist to confirm positioning and inspiration were adequate to demonstrate the finding clearly before the patient leaves."
+ },
+ {
+  "id": 489,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: An abdominal image is technically excellent but a wedge-shaped chest finding was never asked for on the requisition. Does the technologist need to add extra projections?",
+  "back": "No, the technologist follows the requisition and departmental protocol; additional projections are only added where the requisition and protocol call for them."
+ },
+ {
+  "id": 490,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is quantum mottle sometimes also described as on a digital image?",
+  "back": "A visually mottled or grainy appearance caused by insufficient photons reaching the receptor."
+ },
+ {
+  "id": 491,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why should a technologist never permanently obscure or remove information after a marker discrepancy is found?",
+  "back": "Because doing so could prevent resolving the ambiguity about which side was actually imaged."
+ },
+ {
+  "id": 492,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What professional principle governs whether to repeat an exposure after discovering an unexpected finding versus a technical flaw?",
+  "back": "Repeat only for genuine technical or positioning deficiencies; never repeat solely because a finding is present when the image already meets all technical and positioning criteria."
+ },
+ {
+  "id": 493,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: A lumbar spine image shows adequate penetration but the pedicles are not symmetric bilaterally. What does this suggest?",
+  "back": "Patient rotation, since symmetry of the pedicles is one of the criteria checked for alignment on spine imaging."
+ },
+ {
+  "id": 494,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is the technologist's escalation duty distinct from making a diagnosis?",
+  "back": "To promptly communicate an unexpected or urgent finding through appropriate clinical channels, such as notifying the radiologist or the ordering physician's team."
+ },
+ {
+  "id": 495,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Fill in the blank: Grid cutoff can occur when the source-to-image distance falls outside the grid's designed ____ range.",
+  "back": "focal"
+ },
+ {
+  "id": 496,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What is the key difference between correcting an overexposed image and correcting an underexposed image?",
+  "back": "An underexposed image is corrected by increasing mAs, while an overexposed image is corrected by decreasing mAs for the next exposure."
+ },
+ {
+  "id": 497,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Scenario: A repeat log shows the same projection is consistently overexposed across multiple patients. What does this indicate?",
+  "back": "A technique chart or workflow problem that should be corrected at the source, per departmental quality assurance protocol."
+ },
+ {
+  "id": 498,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What determines whether a technologist should reorder the standard critique sequence?",
+  "back": "Personal workflow preference is acceptable as long as every element of the sequence is checked before the patient leaves the room."
+ },
+ {
+  "id": 499,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "Why is a missing anatomical side marker treated as a critical error even on an otherwise perfect image?",
+  "back": "Because the marker's accuracy directly affects patient safety, including the risk of a wrong-side surgical or interventional procedure."
+ },
+ {
+  "id": 500,
+  "domain": "image_and_data_quality_analysis",
+  "chapter": "Image and Data Quality Analysis",
+  "front": "What overall skill does the image and data quality analysis domain test on the CAMRT exam?",
+  "back": "The integration of technical knowledge, anatomical knowledge, and professional judgment needed to critique a finished image and decide whether it is diagnostic, flawed, or requires a repeat."
+ }
+]
